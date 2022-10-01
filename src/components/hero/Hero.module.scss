@@ -1,15 +1,25 @@
 .hero {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    display: grid;
     width: 100%;
     height: 100vh;
     background-color: #000000;
+    grid-template-rows: 1fr 160px;
+    grid-template-columns: 2fr 1fr;
+    grid-template-areas:
+        "logo logo"
+        "info cta";
 
     .logo {
         position: relative;
+        grid-area: logo;
+        justify-self: center;
+        align-self: center;
         max-width: 85%;
         width: 700px;
         height: 300px;
+    }
+
+    .infoWrapper {
+        grid-area: info;
     }
 }
