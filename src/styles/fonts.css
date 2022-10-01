@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Bombarda';
+    src: local('Bombarda W05 Regular'), local('Bombarda'),
+        url('/fonts/subset-Bombarda.woff2') format('woff2');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fixture';
+    src: local('Fixture Bold'), local('Fixture-Bold'),
+        url('/fonts/subset-Fixture-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fixture';
+    src: local('Fixture Light'), local('Fixture-Light'),
+        url('/fonts/subset-Fixture-Light.woff2') format('woff2');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Fixture';
+    src: local('Fixture SemiBold'), local('Fixture-SemiBold'),
+        url('/fonts/subset-Fixture-SemiBold.woff2') format('woff2');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
