@@ -18,4 +18,7 @@ a {
       Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
     font-size: 16px;
 
+    --color-cream: #F5E3CE;
+    --color-red: #EE4043;
+    --color-yellow: #FDB813;
 }
