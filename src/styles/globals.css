@@ -14,8 +14,9 @@ a {
 }
 
 :root {
-    font-family: 'Fixture', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    font-family: 'Fixture Expanded', -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
       Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    font-weight: 300;
     font-size: 16px;
 
     --color-cream: #F5E3CE;
