@@ -1,3 +1,4 @@
+$fold-size: 50px;
 $default-animation-duration: .4s;
 
 .cta {
@@ -11,7 +12,34 @@ $default-animation-duration: .4s;
     overflow: hidden;
     cursor: pointer;
 
+    &::before {
+        content: "";
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: calc(100% - $fold-size);
+        height: $fold-size;
+    }
+
+    &::after {
+        content: "";
+        position: absolute;
+        top: 0;
+        right: 0;
+        border-style: solid;
+        border-width: 0 $fold-size $fold-size 0;
+        border-right-color: transparent;
+    }
+
     &.yellow {
+        &::before {
+            background-color: var(--color-yellow);
+        }
+
+        &::after {
+            border-bottom-color: var(--color-red);
+        }
+
         background: linear-gradient(0deg,
             var(--color-yellow) 0%,
             var(--color-yellow) calc(100% - $fold-size),
