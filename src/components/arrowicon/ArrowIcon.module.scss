@@ -1,0 +1,7 @@
+.arrowIcon {
+    display: inline-block;
+
+    &.red > * {
+        fill: var(--color-red)
+    }
+}
