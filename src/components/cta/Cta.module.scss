@@ -1,5 +1,71 @@
+$default-animation-duration: .4s;
+
 .cta {
+    position: relative;
     grid-area: cta;
+    border: 0;
+    font-size: 2rem;
+    font-family: inherit;
+    text-transform: uppercase;
+    box-sizing: border-box;
+    overflow: hidden;
+    cursor: pointer;
+
     &.yellow {
+        background: linear-gradient(0deg,
+            var(--color-yellow) 0%,
+            var(--color-yellow) calc(100% - $fold-size),
+            transparent calc(100% - $fold-size));
+        color: #000000;
+
+        data {
+            color: var(--color-red);
+        }
+    }
+
+    data {
+        font-weight: 600;
+    }
+
+    .unhovered,
+    .hovered {
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        width: 100%;
+        height: 100%;
+        transition: transform $default-animation-duration ease, opacity .3s ease;
+        z-index: 1;
+    }
+
+    .unhovered {
+        color: inherit;
+        font-weight: 600;
+        transform: translateY(0%) scaleY(1);
+        opacity: 1;
+    }
+
+    .hovered {
+        white-space: nowrap;
+        flex-direction: column;
+        transform: translateY(10%) scaleY(0);
+        opacity: 0;
+    }
+
+    &:hover {
+        .unhovered {
+            transform: translateY(-10%) scaleY(0);
+            opacity: 0;
+        }
+
+        .hovered {
+            transform: translateY(5%) scaleY(1);
+            opacity: 1;
+        }
     }
 }
