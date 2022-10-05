@@ -1,3 +1,5 @@
+@import '@styles/constants';
+
 .hero {
     display: grid;
     width: 100%;
@@ -25,7 +27,7 @@
         justify-content: center;
         flex-direction: column;
         grid-area: info;
-        background-color: var(--color-red);
+        background-color: $color-red;
         border-right: solid 6px rgba(0, 0, 0, .1);
 
         .info {
@@ -33,7 +35,7 @@
             flex-direction: column;
 
             .date {
-                color: var(--color-yellow);
+                color: $color-yellow;
                 font-family: Bombarda;
                 font-weight: 900;
                 text-transform: uppercase;
@@ -49,7 +51,7 @@
                 line-height: 1;
                 font-weight: 300;
                 text-transform: uppercase;
-                color: var(--color-cream);
+                color: $color-cream;
                 white-space: nowrap;
 
                 .separator {
@@ -58,7 +60,7 @@
                     margin: 0;
                     width: 100%;
                     height: 2px;
-                    background-color: var(--color-cream);
+                    background-color: $color-cream;
                     border: 0;
                 }
             }
