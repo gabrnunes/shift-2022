@@ -7,13 +7,10 @@
     background-color: #000000;
     grid-template-rows: 3fr 1fr;
     grid-template-columns: 2fr 1fr;
-    grid-template-areas:
-        "logo logo"
-        "info cta";
 
     .logo {
+        grid-column: span 2;
         position: relative;
-        grid-area: logo;
         justify-self: center;
         align-self: center;
         max-width: 70%;
@@ -27,7 +24,6 @@
         align-items: center;
         justify-content: center;
         flex-direction: column;
-        grid-area: info;
         background-color: $color-red;
         border-right: solid 6px rgba(0, 0, 0, .1);
 
