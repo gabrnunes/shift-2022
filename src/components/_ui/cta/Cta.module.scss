@@ -1,11 +1,12 @@
+@import '@styles/constants';
+
 $fold-size: 50px;
 $default-animation-duration: .4s;
 
 .cta {
     position: relative;
-    grid-area: cta;
     border: 0;
-    font-size: 2rem;
+    font-size: clamp(1.6rem, 1.6vw, 2rem);
     font-family: inherit;
     text-transform: uppercase;
     box-sizing: border-box;
@@ -33,21 +34,21 @@ $default-animation-duration: .4s;
 
     &.yellow {
         &::before {
-            background-color: var(--color-yellow);
+            background-color: $color-yellow;
         }
 
         &::after {
-            border-bottom-color: var(--color-red);
+            border-bottom-color: $color-red;
         }
 
         background: linear-gradient(0deg,
-            var(--color-yellow) 0%,
-            var(--color-yellow) calc(100% - $fold-size),
+            $color-yellow 0%,
+            $color-yellow calc(100% - $fold-size),
             transparent calc(100% - $fold-size));
         color: #000000;
 
         data {
-            color: var(--color-red);
+            color: $color-red;
         }
     }
 

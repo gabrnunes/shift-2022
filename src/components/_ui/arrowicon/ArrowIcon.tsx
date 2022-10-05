@@ -11,6 +11,5 @@ export default function ArrowIcon(props: Props) {
             <rect x="156.414" width="18" height="2" transform="rotate(45 156.414 0)" />
             <rect x="155" y="24.7279" width="18" height="2" transform="rotate(-45 155 24.7279)" />
         </svg>
-
     )
 }

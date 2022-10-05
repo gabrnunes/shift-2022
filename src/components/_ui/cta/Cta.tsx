@@ -1,4 +1,4 @@
-import ArrowIcon from "@components/arrowicon/ArrowIcon";
+import ArrowIcon from "@components/_ui/arrowicon/ArrowIcon";
 import styles from "./Cta.module.scss";
 
 type Props = {

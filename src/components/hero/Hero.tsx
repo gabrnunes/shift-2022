@@ -1,4 +1,4 @@
-import Cta from "@components/cta/Cta";
+import Cta from "@components/_ui/cta/Cta";
 import Image from "next/image";
 import styles from "./Hero.module.scss";
 
