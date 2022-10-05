@@ -1,0 +1,66 @@
+@import '@styles/constants';
+
+.hero {
+    display: grid;
+    width: 100%;
+    height: 100vh;
+    background-color: #000000;
+    grid-template-rows: 3fr 1fr;
+    grid-template-columns: 2fr 1fr;
+
+    .logo {
+        grid-column: span 2;
+        position: relative;
+        justify-self: center;
+        align-self: center;
+        max-width: 70%;
+        max-height: 60%;
+        width: 700px;
+        height: 300px;
+    }
+
+    .infoWrapper {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        background-color: $color-red;
+        border-right: solid 6px rgba(0, 0, 0, .1);
+
+        .info {
+            display: inline-flex;
+            flex-direction: column;
+
+            .date {
+                color: $color-yellow;
+                font-family: Bombarda;
+                font-weight: 900;
+                text-transform: uppercase;
+                font-size: clamp(3rem, 5vw, 5rem);
+            }
+
+            .location {
+                display: inline-flex;
+                align-items: center;
+                column-gap: 24px;
+                width: 100%;
+                font-size: clamp(1.4rem, 2.5vw, 2.3rem);
+                line-height: 1;
+                font-weight: 300;
+                text-transform: uppercase;
+                color: $color-cream;
+                white-space: nowrap;
+
+                .separator {
+                    position: relative;
+                    top: 3px;
+                    margin: 0;
+                    width: 100%;
+                    height: 2px;
+                    background-color: $color-cream;
+                    border: 0;
+                }
+            }
+        }
+    }
+}
