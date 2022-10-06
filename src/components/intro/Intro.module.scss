@@ -17,5 +17,18 @@
         font-size: clamp(3rem, 3.5vw, 3.5vw);
         line-height: 1.2;
         text-transform: uppercase;
+        .underlined {
+            position: relative;
+        }
+        .underlined::before {
+            content: '';
+            position: absolute;
+            bottom: -5%;
+            left: -2%;
+            width: 110%;
+            height: 100%;
+            background: url('/img/intro/underlined-text.png') center bottom no-repeat transparent;
+            background-size: contain;
+        }
     }
 }
