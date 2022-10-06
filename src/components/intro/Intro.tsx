@@ -8,6 +8,14 @@ export default function Intro() {
                 <em className={styles.glowed}>criatividade</em>, inovação,<br />
                 futuro e <em className={styles.underlined}>sociedade</em>
             </h1>
+
+            <p className={styles.textBlock}>
+                Um lugar onde reunimos pessoas incríveis para discutir ideias que impactam a forma como vivemos.
+            </p>
+
+            <p className={styles.textBlock}>
+                Descubra futuros possíveis, conheça histórias mais humanas, amplie seus horizontes, faça parte de um grande movimento.
+            </p>
         </section>
     )
 }

@@ -60,4 +60,13 @@
             background-size: contain;
         }
     }
+
+    .textBlock {
+        margin: 7vh auto 0;
+        max-width: 45%;
+        font-size: clamp(1.2rem, 1.5vw, 1.5vw);
+        font-weight: 300;
+        line-height: 1.6;
+        color: #ffffff;
+    }
 }
