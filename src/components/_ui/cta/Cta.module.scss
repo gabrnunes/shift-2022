@@ -28,8 +28,9 @@ $default-animation-duration: .4s;
         top: 0;
         right: 0;
         border-style: solid;
-        border-width: 0 $fold-size $fold-size 0;
-        border-right-color: transparent;
+        border-left: none;
+        border-top: none;
+        border-right: solid $fold-size transparent;
     }
 
     &.yellow {
@@ -38,7 +39,7 @@ $default-animation-duration: .4s;
         }
 
         &::after {
-            border-bottom-color: $color-red;
+            border-bottom: solid $fold-size $color-red;
         }
 
         background: linear-gradient(0deg,

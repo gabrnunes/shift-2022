@@ -7,7 +7,7 @@ type Props = {
 
 export default function Cta(props: Props) {
     return (
-        <button className={[styles.cta, styles[props.color]].join(" ")}>
+        <a href="#" className={[styles.cta, styles[props.color]].join(" ")}>
             <div className={styles.unhovered}>
                 <b>Garanta sua vaga</b>
             </div>
@@ -16,6 +16,6 @@ export default function Cta(props: Props) {
                 <span>Passaporte <data value="119.00">R$ 119</data></span>
                 <ArrowIcon color="red" />
             </div>
-        </button>
+        </a>
     )
 }
