@@ -18,10 +18,26 @@
         line-height: 1.2;
         text-transform: uppercase;
 
+        .circled,
         .glowed,
         .underlined {
             position: relative;
         }
+
+        .circled::before {
+            content: '';
+            position: absolute;
+            margin: auto;
+            top: -9999px;
+            left: -9999px;
+            right: -9999px;
+            bottom: -9999px;
+            width: 125%;
+            height: 125%;
+            background: url('/img/intro/circled-text.png') center center no-repeat transparent;
+            background-size: contain;
+        }
+
         .glowed::before {
             content: '';
             position: absolute;
