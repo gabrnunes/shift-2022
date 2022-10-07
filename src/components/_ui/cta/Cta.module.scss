@@ -1,6 +1,5 @@
 @import '@styles/constants';
 
-$fold-size: 50px;
 $default-animation-duration: .4s;
 
 .cta {
@@ -18,8 +17,8 @@ $default-animation-duration: .4s;
         position: absolute;
         top: 0;
         left: 0;
-        width: calc(100% - $fold-size);
-        height: $fold-size;
+        width: calc(100% - $cta-fold-size);
+        height: $cta-fold-size;
     }
 
     &::after {
@@ -30,7 +29,7 @@ $default-animation-duration: .4s;
         border-style: solid;
         border-left: none;
         border-top: none;
-        border-right: solid $fold-size transparent;
+        border-right: solid $cta-fold-size transparent;
     }
 
     &.yellow {
@@ -39,13 +38,13 @@ $default-animation-duration: .4s;
         }
 
         &::after {
-            border-bottom: solid $fold-size $color-red;
+            border-bottom: solid $cta-fold-size $color-red;
         }
 
         background: linear-gradient(0deg,
             $color-yellow 0%,
-            $color-yellow calc(100% - $fold-size),
-            transparent calc(100% - $fold-size));
+            $color-yellow calc(100% - $cta-fold-size),
+            transparent calc(100% - $cta-fold-size));
         color: #000000;
 
         data {
