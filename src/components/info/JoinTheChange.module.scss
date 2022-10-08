@@ -1,4 +1,15 @@
 @import '@styles/constants';
 
 .info {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 5fr 1fr;
+    height: 90vh;
+
+    .text {
+        grid-row: span 2;
+        background-color: $color-green-light;
+        padding: 15vh 8vw;
+
+    }
 }
