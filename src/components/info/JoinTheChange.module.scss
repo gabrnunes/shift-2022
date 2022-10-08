@@ -35,4 +35,10 @@
             }
         }
     }
+
+    .photo {
+        position: relative;
+        width: 100%;
+        height: calc(100% + $cta-fold-size);
+    }
 }

@@ -1,3 +1,5 @@
+import Cta from "@components/_ui/cta/Cta";
+import Image from "next/image";
 import styles from "./JoinTheChange.module.scss";
 
 export default function JoinTheChange() {
@@ -18,6 +20,7 @@ export default function JoinTheChange() {
             </div>
 
             <div className={styles.photo}>
+                <Image src="/img/photo-of-last-edition.jpg" layout="fill" objectFit="cover" objectPosition="center center" />
             </div>
 
             <Cta color="red" />
