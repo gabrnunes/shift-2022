@@ -10,7 +10,7 @@ export default function Faq() {
             </h2>
 
             <div className={styles.questionsWrapper}>
-                {questionList.map(item => <FaqQuestion question={item.question} answer={item.answer} />)}
+                {questionList.map((item, index) => <FaqQuestion question={item.question} answer={item.answer} key={index} />)}
             </div>
         </section>
     )
