@@ -21,6 +21,13 @@ export default function JoinTheChange() {
 
             <div className={styles.photo}>
                 <Image src="/img/photo-of-last-edition.jpg" layout="fill" objectFit="cover" objectPosition="center center" />
+                <a href="https://g.page/agoratechpark?share" target="_blank" rel="noopener noreferrer" className={styles.hovered}>
+                    <Image src="/img/icons/map.png" width={56} height={85} />
+                    <span>
+                        Veja<br />
+                        no mapa
+                    </span>
+                </a>
             </div>
 
             <Cta color="red" />
