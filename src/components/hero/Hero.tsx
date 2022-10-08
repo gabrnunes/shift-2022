@@ -22,9 +22,7 @@ export default function Hero() {
                 </div>
             </div>
 
-            <Cta>
-                Garanta sua vaga
-            </Cta>
+            <Cta color="yellow" />
         </section>
     )
 }

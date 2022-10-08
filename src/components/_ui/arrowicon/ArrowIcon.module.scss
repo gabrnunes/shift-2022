@@ -1,0 +1,9 @@
+@import '@styles/constants';
+
+.arrowIcon {
+    display: inline-block;
+
+    &.red > * {
+        fill: $color-red;
+    }
+}
