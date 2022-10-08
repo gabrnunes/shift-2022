@@ -1,5 +1,6 @@
 import Hero from "@components/hero/Hero";
 import Illustration from "@components/illustration/Illustration";
+import JoinTheChange from "@components/info/JoinTheChange";
 import Intro from "@components/intro/Intro";
 
 export default function IndexController() {
@@ -8,6 +9,7 @@ export default function IndexController() {
             <Hero />
             <Illustration />
             <Intro />
+            <JoinTheChange />
         </>
     )
 }

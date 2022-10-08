@@ -2,7 +2,7 @@ import ArrowIcon from "@components/_ui/arrowicon/ArrowIcon";
 import styles from "./Cta.module.scss";
 
 type Props = {
-    color: "yellow"
+    color: "yellow" | "red"
 }
 
 export default function Cta(props: Props) {
@@ -14,7 +14,14 @@ export default function Cta(props: Props) {
 
             <div className={styles.hovered}>
                 <span>Passaporte <data value="119.00">R$ 119</data></span>
-                <ArrowIcon color="red" />
+
+                {props.color == "yellow" &&
+                    <ArrowIcon color="red" />
+                }
+
+                {props.color == "red" &&
+                    <ArrowIcon color="green" />
+                }
             </div>
         </a>
     )
