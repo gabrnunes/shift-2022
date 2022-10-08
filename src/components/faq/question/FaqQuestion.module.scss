@@ -5,11 +5,12 @@ $arrow-size: 24px;
 .faqQuestion {
     border-bottom: solid 1px $color-red-dark;
     width: 100%;
-    padding: 4vh 6vw;
+    padding: 0 6vw;
     box-sizing: border-box;
 
     .question {
         position: relative;
+        padding: 4vh 0;
         list-style: none;
         font-size: clamp(1.2rem, 1.2vw, 1.2vw);
         width: 100%;
@@ -31,7 +32,7 @@ $arrow-size: 24px;
     }
 
     .answer {
-        margin-top: 3vh;
+        margin-bottom: 3vh;
         font-size: clamp(1rem, 1vw, 1.2vw);
         line-height: 1.8;
         width: calc(100% - $arrow-size);
