@@ -5,7 +5,7 @@ import FaqQuestion from "./question/FaqQuestion";
 export default function Faq() {
     return (
         <section className={styles.faq}>
-            <h2 className={styles.heading} title="Meu pau no teu ouvido 😎">
+            <h2 className={styles.heading}>
                 Duvida? Duvido!
             </h2>
 
