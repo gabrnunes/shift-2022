@@ -11,5 +11,28 @@
         background-color: $color-green-light;
         padding: 15vh 8vw;
 
+        .headline {
+            font-size: clamp(3rem, 3.5vw, 3.5vw);
+            font-family: $font-heading;
+            line-height: 1;
+            color: $color-cream;
+            text-transform: uppercase;
+
+            em {
+                color: $color-green;
+            }
+        }
+
+        .textBlock {
+            margin-top: 4vh;
+            width: 90%;
+            font-size: clamp(1.2rem, 1.6vw, 1.6vw);
+            line-height: 1.6;
+            color: #ffffff;
+
+            strong {
+                font-weight: 700;
+            }
+        }
     }
 }
