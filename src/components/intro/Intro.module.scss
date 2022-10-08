@@ -1,0 +1,72 @@
+@import '@styles/constants';
+
+.introWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: $color-red;
+    padding-top: 20vh;
+    padding-bottom: 15vh;
+    text-align: center;
+    width: 100%;
+
+    .headline {
+        color: $color-cream;
+        font-family: $font-heading;
+        font-size: clamp(3rem, 3.5vw, 3.5vw);
+        line-height: 1.2;
+        text-transform: uppercase;
+
+        .circled,
+        .glowed,
+        .underlined {
+            position: relative;
+        }
+
+        .circled::before {
+            content: '';
+            position: absolute;
+            margin: auto;
+            top: -9999px;
+            left: -9999px;
+            right: -9999px;
+            bottom: -9999px;
+            width: 125%;
+            height: 125%;
+            background: url('/img/intro/circled-text.png') center center no-repeat transparent;
+            background-size: contain;
+        }
+
+        .glowed::before {
+            content: '';
+            position: absolute;
+            top: -45%;
+            left: -11%;
+            width: 20%;
+            height: 100%;
+            background: url('/img/intro/glowed-text.png') center center no-repeat transparent;
+            background-size: contain;
+        }
+
+        .underlined::before {
+            content: '';
+            position: absolute;
+            bottom: -5%;
+            left: -2%;
+            width: 110%;
+            height: 100%;
+            background: url('/img/intro/underlined-text.png') center bottom no-repeat transparent;
+            background-size: contain;
+        }
+    }
+
+    .textBlock {
+        margin: 7vh auto 0;
+        max-width: 55%;
+        font-size: clamp(1.2rem, 1.5vw, 1.5vw);
+        font-weight: 300;
+        line-height: 1.6;
+        color: #ffffff;
+    }
+}

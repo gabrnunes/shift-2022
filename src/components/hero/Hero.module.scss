@@ -33,7 +33,7 @@
 
             .date {
                 color: $color-yellow;
-                font-family: Bombarda;
+                font-family: $font-heading;
                 font-weight: 900;
                 text-transform: uppercase;
                 font-size: clamp(3rem, 5vw, 5rem);
