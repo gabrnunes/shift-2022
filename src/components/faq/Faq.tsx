@@ -1,4 +1,5 @@
 import styles from "./Faq.module.scss";
+import questionList from "./FaqQuestionList.json";
 import FaqQuestion from "./question/FaqQuestion";
 
 export default function Faq() {
@@ -9,6 +10,7 @@ export default function Faq() {
             </h2>
 
             <div className={styles.questionsWrapper}>
+                {questionList.map(item => <FaqQuestion question={item.question} answer={item.answer} />)}
             </div>
         </section>
     )
