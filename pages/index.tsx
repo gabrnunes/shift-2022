@@ -1,3 +1,4 @@
+import Faq from "@components/faq/Faq";
 import Hero from "@components/hero/Hero";
 import Illustration from "@components/illustration/Illustration";
 import JoinTheChange from "@components/info/JoinTheChange";
@@ -10,6 +11,7 @@ export default function IndexController() {
             <Illustration />
             <Intro />
             <JoinTheChange />
+            <Faq />
         </>
     )
 }
