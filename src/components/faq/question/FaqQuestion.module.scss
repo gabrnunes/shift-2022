@@ -1,2 +1,48 @@
+@import '@styles/constants';
+
+$arrow-size: 24px;
+
 .faqQuestion {
+    border-bottom: solid 1px $color-red-dark;
+    width: 100%;
+    padding: 4vh 6vw;
+    box-sizing: border-box;
+
+    .question {
+        position: relative;
+        list-style: none;
+        font-size: clamp(1.2rem, 1.2vw, 1.2vw);
+        width: 100%;
+        cursor: pointer;
+
+        &::after {
+            content: "";
+            position: absolute;
+            right: 0;
+            top: 0;
+            bottom: 0;
+            margin: auto;
+            border-right: 1px solid $color-red-dark;
+            border-bottom: 1px solid $color-red-dark;
+            width: $arrow-size;
+            height: $arrow-size;
+            transform: rotate(45deg);
+        }
+    }
+
+    .answer {
+        margin-top: 3vh;
+        font-size: clamp(1rem, 1vw, 1.2vw);
+        line-height: 1.8;
+        width: calc(100% - $arrow-size);
+    }
+
+    &[open] {
+        .question {
+            &:after {
+                top: $arrow-size;
+                transform: rotate(225deg);
+            }
+        }
+    }
 }
