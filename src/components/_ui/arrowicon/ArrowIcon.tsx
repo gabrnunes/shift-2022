@@ -1,7 +1,7 @@
 import styles from "./ArrowIcon.module.scss"
 
 type Props = {
-    color: "red"
+    color: "red" | "green"
 }
 
 export default function ArrowIcon(props: Props) {
