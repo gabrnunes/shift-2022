@@ -1,0 +1,40 @@
+@import "@styles/constants";
+
+.section {
+    background-color: $color-green;
+    position: relative;
+    padding: 4vw;
+}
+
+.title {
+    font-family: $font-heading;
+    text-transform: uppercase;
+    color: $color-cream;
+    font-size: clamp(2rem, 5vw, 7vw);
+    writing-mode: vertical-lr;
+    transform: rotate(-180deg);
+
+    position: absolute;
+    left: 3vw;
+    bottom: -20px;
+}
+
+.container {
+    margin-left: 7vw;
+}
+
+.subscribe {
+    margin-top: 2.5rem;
+    color: $color-yellow;
+    position: relative;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-left: 110px;
+
+    img {
+        position: absolute;
+        bottom: -120px;
+        left: 0;
+    }
+}
