@@ -20,12 +20,14 @@ export default function Rolante(props: Props) {
         >
             <img src={props.icon} className={styles.icon} />
             <Marquee className={styles.marquee} gradient={false} speed={40}>
-                {" "}
-                {props.text} {props.joke}{" "}
+                &nbsp;
+                {props.text}&nbsp;{props.joke}&nbsp;
                 {Array(10)
                     .fill(1)
-                    .map(() => (
-                        <>{props.text} </>
+                    .map((c, index) => (
+                        <>
+                            <span key={index}>&nbsp;{props.text}&nbsp;</span>
+                        </>
                     ))}
             </Marquee>
         </div>
