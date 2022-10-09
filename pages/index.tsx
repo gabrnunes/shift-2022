@@ -18,8 +18,8 @@ export default function IndexController() {
             <JoinTheChange />
             <Workshops />
             <Faq />
-            <Footer />
             <Sponsors />
+            <Footer />
         </>
     );
 }
