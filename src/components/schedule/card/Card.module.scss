@@ -8,7 +8,7 @@
         cursor: pointer;
 
         .title {
-            background: $color-green;
+            background: $color-green-light;
             transition: all 0.2s ease-in-out;
 
             h2 {
@@ -40,7 +40,7 @@
     font-family: $font-heading;
     text-transform: uppercase;
     font-size: clamp(2rem, 2vw, 3vw);
-    -webkit-text-stroke: 1px rgba($color-green, 0.4);
+    -webkit-text-stroke: 1px rgba($color-green-light, 0.4);
     -webkit-text-fill-color: transparent;
 }
 
@@ -53,7 +53,7 @@
     padding: 1rem 0;
 
     .room {
-        color: $color-dark-green;
+        color: $color-green;
     }
 }
 
@@ -79,7 +79,7 @@
     h2 {
         font-size: clamp(2.1rem, 1.6vw, 1.8rem);
         line-height: 1.2;
-        color: $color-green;
+        color: $color-green-light;
         transition: all 0.2s ease-in-out;
     }
 }
