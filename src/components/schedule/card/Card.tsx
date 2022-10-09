@@ -41,7 +41,19 @@ export default function Card(props: Props) {
             </div>
 
             {props.talk.soon ? (
-                <div className={styles.soonMessage}>Em breve</div>
+                <div className={styles.soonMessage}>
+                    Em breve
+                    <br />
+                    Em breve
+                    <br />
+                    Em breve
+                    <br />
+                    Em breve
+                    <br />
+                    Em breve
+                    <br />
+                    Em breve
+                </div>
             ) : (
                 <>
                     <div className={styles.images}>
