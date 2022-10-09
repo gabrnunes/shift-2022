@@ -1,12 +1,12 @@
 [
     [
         {
-            "soon": true,
+            "soon": false,
             "type": "Palestra",
             "hour": "09:00 - 10:00",
             "room": "Sala 1",
             "title": "Criatividade requer otimismo",
-            "description": "asdasd",
+            "description": "",
             "speakers": [
                 {
                     "name": "Startup da Real",
@@ -19,17 +19,25 @@
             ]
         },
         {
-            "soon": true,
+            "soon": false,
             "type": "Painel",
             "hour": "09:30 - 10:30",
             "room": "Sala 2",
             "title": "Como a educação tradicional mata a criatividade",
-            "description": "asdasd",
+            "description": "",
             "speakers": [
                 {
-                    "name": "Startup da Real",
-                    "subtitle": "Alberto Brandão",
-                    "photo": "/img/schedule/startup-da-real.jpg",
+                    "name": "Charles Caubi",
+                    "subtitle": "",
+                    "photo": "/img/schedule/charles-caubi.jpg",
+                    "twitter": null,
+                    "linkedin": null,
+                    "instagram": null
+                },
+                {
+                    "name": "Simone de Oliveira",
+                    "subtitle": "",
+                    "photo": "/img/schedule/simone-de-oliveira.jpg",
                     "twitter": null,
                     "linkedin": null,
                     "instagram": null
@@ -37,17 +45,17 @@
             ]
         },
         {
-            "soon": true,
+            "soon": false,
             "type": "Palestra",
             "hour": "09:00 - 10:00",
             "room": "Sala 3",
             "title": "Como melhorar a cidade que a gente tem hoje?",
-            "description": "asdasd",
+            "description": "",
             "speakers": [
                 {
-                    "name": "Startup da Real",
-                    "subtitle": "Alberto Brandão",
-                    "photo": "/img/schedule/startup-da-real.jpg",
+                    "name": "Rafaela Rodrigues",
+                    "subtitle": "",
+                    "photo": "/img/schedule/rafaela-rodrigues.jpg",
                     "twitter": null,
                     "linkedin": null,
                     "instagram": null
@@ -61,20 +69,20 @@
             "hour": "10:30 - 11:00",
             "room": "Sala 1",
             "title": "A internet virou um grande shopping",
-            "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis arcu tellus. Quisque interdum erat ac orci ornare mattis. Integer eget interdum nisl. Quisque in viverra dolor. Fusce placerat iaculis arcu, sed fermentum magna posuere nec. Proin laoreet ac purus vitae ullamcorper. Morbi urna enim, mattis eu consequat vel, lacinia ac purus.\nVestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Donec varius in orci eget sollicitudin. Donec vehicula turpis at fermentum laoreet. Aliquam at sagittis dolor. Proin eget justo eu ante interdum consequat dapibus at eros. In elementum sodales est, ut laoreet urna convallis ac. Sed nisl elit, aliquet eget erat ac, placerat tristique lectus. Curabitur ullamcorper est libero, quis pretium odio blandit et. Nunc ultricies velit dictum risus tempus consequat. Maecenas ornare, massa sit amet porta semper, nisl purus rhoncus erat, sit amet tempus nisi mauris eu magna.",
+            "description": "",
             "speakers": [
                 {
                     "name": "Beatriz Guarezi",
-                    "subtitle": "Beatriz Guarezi",
+                    "subtitle": "Criadora da Bits to Brands",
                     "photo": "/img/schedule/beatriz-guarezi.jpg",
                     "twitter": null,
                     "linkedin": "https://linkedin.com/in/beatrizguarezi",
                     "instagram": "https://instagram.com/bitstobrands"
                 },
                 {
-                    "name": "Beatriz Guarezi",
-                    "subtitle": "Beatriz Guarezi",
-                    "photo": "/img/schedule/beatriz-guarezi.jpg",
+                    "name": "Rodrigo Ghedin",
+                    "subtitle": "",
+                    "photo": "/img/schedule/rodrigo-ghedin.jpg",
                     "twitter": null,
                     "linkedin": "https://linkedin.com/in/beatrizguarezi",
                     "instagram": "https://instagram.com/bitstobrands"
@@ -82,7 +90,7 @@
             ]
         },
         {
-            "soon": true,
+            "soon": false,
             "type": "Painel",
             "hour": "11:00 - 12:00",
             "room": "Sala 2",
@@ -90,27 +98,35 @@
             "description": "asdasd",
             "speakers": [
                 {
-                    "name": "Startup da Real",
-                    "subtitle": "Alberto Brandão",
-                    "photo": "/img/schedule/startup-da-real.jpg",
+                    "name": "João Borges Jr.",
+                    "subtitle": "",
+                    "photo": "/img/schedule/joao-borges.jpg",
                     "twitter": null,
                     "linkedin": null,
                     "instagram": null
+                },
+                {
+                    "name": "Jessin",
+                    "subtitle": "Team Manager na NorCal Esports",
+                    "photo": "/img/schedule/jessin.jpg",
+                    "twitter": null,
+                    "linkedin": "https://www.linkedin.com/in/jessin/",
+                    "instagram": "https://www.instagram.com/jessinxavier/"
                 }
             ]
         },
         {
-            "soon": true,
+            "soon": false,
             "type": "Palestra",
             "hour": "10:30 - 11:30",
             "room": "Sala 3",
             "title": "A ditadura do bom gosto",
-            "description": "asdasd",
+            "description": "",
             "speakers": [
                 {
-                    "name": "Startup da Real",
-                    "subtitle": "Alberto Brandão",
-                    "photo": "/img/schedule/startup-da-real.jpg",
+                    "name": "",
+                    "subtitle": "",
+                    "photo": "/img/schedule/.jpg",
                     "twitter": null,
                     "linkedin": null,
                     "instagram": null
@@ -118,8 +134,202 @@
             ]
         }
     ],
-    [],
-    [],
-    [],
-    []
+    [
+        {
+            "type": "Painel",
+            "hour": "13:30 - 14:30",
+            "room": "Sala 1",
+            "title": "A real sobre o tal metaverso",
+            "description": "",
+            "speakers": [
+                {
+                    "name": "Daniela Zschaber",
+                    "subtitle": "Marketing Manager na NFTFY",
+                    "photo": "/img/schedule/daniela-zschaber.jpeg",
+                    "twitter": null,
+                    "linkedin": "https://www.linkedin.com/in/daniela-zschaber/",
+                    "instagram": "https://instagram.com/danimim"
+                },
+                {
+                    "name": "Tim Balabuch",
+                    "subtitle": "Fundador PFP Supply Co.",
+                    "photo": "/img/schedule/tim-balabuch.jpg",
+                    "twitter": null,
+                    "linkedin": "https://www.linkedin.com/in/balabuch",
+                    "instagram": "https://www.instagram.com/timbalabuch/"
+                }
+            ]
+        },
+        {
+            "soon": false,
+            "type": "Painel",
+            "hour": "14:00 - 15:00",
+            "room": "Sala 2",
+            "title": "Sh*ft convida criativos cansados",
+            "description": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "subtitle": "",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": "",
+                    "instagram": ""
+                }
+            ]
+        },
+        {
+            "soon": false,
+            "type": "Palestra",
+            "hour": "13:30 - 14:30",
+            "room": "Sala 3",
+            "title": "A espiritualidade nos dias atuais",
+            "description": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "subtitle": "",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": "",
+                    "instagram": ""
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "type": "Painel",
+            "hour": "15:00 - 16:00",
+            "room": "Sala 1",
+            "title": "Precisamos desligar a internet?",
+            "description": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "subtitle": "=",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": null,
+                    "instagram": null
+                },
+                {
+                    "name": "",
+                    "subtitle": "=",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": null,
+                    "instagram": null
+                }
+            ]
+        },
+        {
+            "soon": false,
+            "type": "Palestra",
+            "hour": "15:30 - 16:30",
+            "room": "Sala 2",
+            "title": "A inovação radical da Web3: quando a tecnologia se encontra com a arte",
+            "description": "",
+            "speakers": [
+                {
+                    "name": "Lauro Gripa",
+                    "subtitle": "",
+                    "photo": "/img/schedule/lauro-gripa.jpg",
+                    "twitter": null,
+                    "linkedin": "",
+                    "instagram": ""
+                }
+            ]
+        },
+        {
+            "soon": false,
+            "type": "Palestra",
+            "hour": "15:00 - 16:00",
+            "room": "Sala 3",
+            "title": "Semana de 4 dias e o futuro do trampo",
+            "description": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "subtitle": "",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": "",
+                    "instagram": ""
+                }
+            ]
+        }
+    ],
+    [
+        {
+            "soon": false,
+            "type": "Painel",
+            "hour": "16:30 - 17:30",
+            "room": "Sala 1",
+            "title": "Inovação real/oficial",
+            "description": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "subtitle": "",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": "",
+                    "instagram": ""
+                },
+                {
+                    "name": "",
+                    "subtitle": "",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": "",
+                    "instagram": ""
+                }
+            ]
+        },
+        {
+            "soon": false,
+            "type": "Painel",
+            "hour": "17:00 - 18:00",
+            "room": "Sala 2",
+            "title": "Ainda vale a pena salvar o planeta?",
+            "description": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "subtitle": "",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": "",
+                    "instagram": ""
+                },
+                {
+                    "name": "",
+                    "subtitle": "",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": "",
+                    "instagram": ""
+                }
+            ]
+        },
+        {
+            "soon": false,
+            "type": "Palestra",
+            "hour": "16:30 - 17:30",
+            "room": "Sala 3",
+            "title": "Call 4 papers",
+            "description": "",
+            "speakers": [
+                {
+                    "name": "",
+                    "subtitle": "",
+                    "photo": "/img/schedule/.jpg",
+                    "twitter": null,
+                    "linkedin": "",
+                    "instagram": ""
+                }
+            ]
+        }
+    ]
 ]
