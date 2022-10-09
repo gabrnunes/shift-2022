@@ -1,0 +1,57 @@
+@import "@styles/constants";
+
+.section {
+    background-color: $color-cream;
+    padding: 0 6vw;
+}
+
+.container {
+    display: flex;
+}
+
+.sponsors {
+    .container {
+        flex-wrap: wrap;
+        column-gap: 5%;
+    }
+
+    a {
+        max-width: 16%;
+        display: block;
+
+        img {
+            width: 100%;
+        }
+    }
+}
+
+.partners {
+    margin-top: 5vh;
+    flex-grow: 1;
+
+    .container {
+        column-gap: 3%;
+    }
+
+    a {
+        max-width: 10%;
+        display: block;
+        margin-top: 5vh;
+
+        img {
+            width: 100%;
+        }
+    }
+}
+
+.madeBy {
+    margin-top: 5vh;
+
+    a {
+        max-width: 300px;
+
+        img {
+            width: 100%;
+        }
+    }
+}

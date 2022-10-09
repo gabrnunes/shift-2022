@@ -3,6 +3,7 @@ import Hero from "@components/hero/Hero";
 import Illustration from "@components/illustration/Illustration";
 import JoinTheChange from "@components/info/JoinTheChange";
 import Intro from "@components/intro/Intro";
+import Sponsors from "@components/sponsors/Sponsors";
 
 export default function IndexController() {
     return (
@@ -12,6 +13,7 @@ export default function IndexController() {
             <Intro />
             <JoinTheChange />
             <Faq />
+            <Sponsors />
         </>
-    )
+    );
 }
