@@ -1,4 +1,4 @@
-@import '@styles/constants';
+@import "@styles/constants";
 
 $arrow-size: 24px;
 
@@ -7,6 +7,7 @@ $arrow-size: 24px;
     width: 100%;
     padding: 0 6vw;
     box-sizing: border-box;
+    box-shadow: 0px 3px 0px rgba($color-red-dark, 0.1);
 
     .question {
         position: relative;

@@ -1,4 +1,5 @@
 import Faq from "@components/faq/Faq";
+import Footer from "@components/footer/Footer";
 import Hero from "@components/hero/Hero";
 import Illustration from "@components/illustration/Illustration";
 import JoinTheChange from "@components/info/JoinTheChange";
@@ -17,6 +18,7 @@ export default function IndexController() {
             <JoinTheChange />
             <Workshops />
             <Faq />
+            <Footer />
             <Sponsors />
         </>
     );
