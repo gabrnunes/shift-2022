@@ -6,4 +6,8 @@
     &.red > * {
         fill: $color-red;
     }
+
+    &.green > * {
+        fill: $color-green;
+    }
 }

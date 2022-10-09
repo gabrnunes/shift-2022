@@ -1,0 +1,18 @@
+@import '@styles/constants';
+
+.faq {
+    padding: 14vh 0;
+    background-color: $color-cream;
+
+    .heading {
+        font-size: clamp(3rem, 3.5vw, 5rem);
+        font-family: $font-heading;
+        text-transform: uppercase;
+        text-align: center;
+    }
+
+    .questionsWrapper {
+        margin-top: 6vh;
+        width: 100%;
+    }
+}
