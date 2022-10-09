@@ -6,12 +6,12 @@
             "hour": "09:00 - 10:00",
             "room": "Sala 1",
             "title": "Criatividade requer otimismo",
-            "description": "",
+            "description": "Essa não é uma palestra de auto-ajuda, mas ajuda os criativos cansados. 'Criatividade não é sobre começar algo. É sobre fazer algo. Fazer requer esforço contínuo, e esforço contínuo requer combustível. Esse combustível é o otimismo. Se você está fazendo algo que não existe, você deve acreditar que pode. Isso é otimismo, esse é o sentimento. Essa é a reação química. Sem ela, a criatividade é estática.' Texto original por Jason Fried",
             "speakers": [
                 {
                     "name": "Startup da Real",
                     "subtitle": "Alberto Brandão",
-                    "photo": "/img/schedule/startup-da-real.jpg",
+                    "photo": "/img/schedule/alberto-brandao.jpg",
                     "twitter": null,
                     "linkedin": null,
                     "instagram": null
@@ -37,7 +37,7 @@
                 {
                     "name": "Simone de Oliveira",
                     "subtitle": "",
-                    "photo": "/img/schedule/simone-de-oliveira.jpg",
+                    "photo": "/img/schedule/simone-oliveira.jpg",
                     "twitter": null,
                     "linkedin": null,
                     "instagram": null
@@ -50,7 +50,7 @@
             "hour": "09:00 - 10:00",
             "room": "Sala 3",
             "title": "Como melhorar a cidade que a gente tem hoje?",
-            "description": "",
+            "description": "A gente nasce e morre nas cidades e elas acumulam problemas bem antigos, como o saneamento e bem novos, como a conectividade. Queremos entender, como eu e você, podemos - dentro da nossa possibilidade - melhorar as cidades que temos hoje. Quais são as ferramentas que podemos usar?",
             "speakers": [
                 {
                     "name": "Rafaela Rodrigues",
@@ -69,7 +69,7 @@
             "hour": "10:30 - 11:00",
             "room": "Sala 1",
             "title": "A internet virou um grande shopping",
-            "description": "",
+            "description": "A cada dois stories, uma propaganda. A cada tweet em uma thread, uma propaganda. A atualização nova do aplicativo tem uma aba de shopping, o post do influenciador é só publi. Os artigos são quase todos pagos. O jeito que a gente usa as redes sociais vira dado, que vira produto, que vira venda. Sobrou alguma coisa entre 1 meme de gatinho e 3463 propagandas?",
             "speakers": [
                 {
                     "name": "Beatriz Guarezi",
@@ -95,7 +95,7 @@
             "hour": "11:00 - 12:00",
             "room": "Sala 2",
             "title": "Comunidades gamers no Brasil",
-            "description": "asdasd",
+            "description": "Seja Minecraft, LoL, Free Fire, CS ou qualquer outro jogo, o Brasil conta com mais de 100 milhões de jogadores de jogos online. Já despontamos em campeonatos mundiais. E bem antes da onda de comunidade chegar às marcas e personalidades, a comunidade gamer se organiza há muito tempo dessa forma. Mas afinal, para onde vão as comunidades gamers no Brasil? O que querem? Quais os próximos passos para comunidades avançadas?",
             "speakers": [
                 {
                     "name": "João Borges Jr.",
@@ -121,12 +121,20 @@
             "hour": "10:30 - 11:30",
             "room": "Sala 3",
             "title": "A ditadura do bom gosto",
-            "description": "",
+            "description": "Quem define o que é bonito e no que se baseia nosso senso estético? De quem são os conceitos que seguimos? O bom gosto é uma lenda? Designers e criativos precisam deixar o ego de lado e compreender que não é porque não gostamos de alguma coisa que ela não seja realmente boa. Os fundamentos do design ocidental não são tão democráticos quanto parecem, eles refletem hierarquias de poder e preconceitos. O mar de referências resulta em mesmice estética. Design e comunicação tem um ritmo alucinante. Hoje, tendências ficam velhas muito rápido. Tradição não dá espaço para experimentação… E quando algo que parece novo surge, é massacrado por críticas, resultando em um estreitamento do pensar e visuais repetitivos. Você já teve a impressão de que já viu tudo o que tem na internet? Não é por isso que estamos todos cansados?",
             "speakers": [
                 {
-                    "name": "",
+                    "name": "João Wittkowski",
                     "subtitle": "",
-                    "photo": "/img/schedule/.jpg",
+                    "photo": "/img/schedule/joao-wittkowski.jpg",
+                    "twitter": null,
+                    "linkedin": null,
+                    "instagram": null
+                },
+                {
+                    "name": "Isabela Sanson",
+                    "subtitle": "",
+                    "photo": "/img/schedule/isabela-sanson.jpg",
                     "twitter": null,
                     "linkedin": null,
                     "instagram": null
@@ -140,7 +148,7 @@
             "hour": "13:30 - 14:30",
             "room": "Sala 1",
             "title": "A real sobre o tal metaverso",
-            "description": "",
+            "description": "A gente queria explicar nessa descrição exatamente o que é o metaverso, mas a gente não pode porque não sabemos o que é. Seria o Second Life em versão atualizada? The Sims com maior interação? Precisa ter óculos de realidade aumentada? A medida do terreno é em pixels e o preço em dólar? A gente também não sabe! Mas esse bate-papo vai ser justamente pra nos ajudar a tirar todas essas dúvidas e entender, por fim, o que é o metaverso (depois do painel editamos a descrição pra explicar melhor).",
             "speakers": [
                 {
                     "name": "Daniela Zschaber",
@@ -179,12 +187,12 @@
             ]
         },
         {
-            "soon": false,
+            "soon": true,
             "type": "Palestra",
             "hour": "13:30 - 14:30",
             "room": "Sala 3",
             "title": "A espiritualidade nos dias atuais",
-            "description": "",
+            "description": "Estamos focados em melhorar o nosso currículo, ter relações reais, reciclar o lixo, votar direito, comer alimentos orgânicos e fazer atividades físicas. Falamos sobre comunicação não violenta e mindfulness, compartilhamos ideias sobre tudo isso mas, quando o assunto é espiritualidade, nossa experiência com espiritualidade é a mesma de quando éramos crianças. Deixamos de lado esse assunto por muito tempo, onde a espiritualidade se encaixa em pleno 2022? O que a gente tem a ver com espiritualidade?",
             "speakers": [
                 {
                     "name": "",
@@ -199,6 +207,7 @@
     ],
     [
         {
+            "soon": true,
             "type": "Painel",
             "hour": "15:00 - 16:00",
             "room": "Sala 1",
@@ -247,7 +256,7 @@
             "hour": "15:00 - 16:00",
             "room": "Sala 3",
             "title": "Semana de 4 dias e o futuro do trampo",
-            "description": "",
+            "description": "Precisamos continuar produzindo 44 horas e 5 dias por semana? A produtividade não vem de passarmos mais de 33% do nosso dia focados no trabalho (fora o deslocamento para chegar lá). Já falamos em futuro de consumo, futuro do serviço e tantos outros futuros, mas e o futuro do trampo? Para onde as tendências apontam e de que forma a gente se prepara para isso?",
             "speakers": [
                 {
                     "name": "",
@@ -267,7 +276,7 @@
             "hour": "16:30 - 17:30",
             "room": "Sala 1",
             "title": "Inovação real/oficial",
-            "description": "",
+            "description": "09 em cada 10 publicações do linkedin usam a palavra inovação e muitas ainda falam do exemplo da Blockbuster ou Kodak. Ninguém aguenta mais!!! Vamos falar sobre inovação em terras brasileiras, com as ferramentas e possibilidades que existem para um país tropical, com tanta dificuldade como o nosso. Queremos entender como empresas realmente inovadoras fazem inovação de verdade no seu dia-a-dia.",
             "speakers": [
                 {
                     "name": "",
@@ -293,28 +302,28 @@
             "hour": "17:00 - 18:00",
             "room": "Sala 2",
             "title": "Ainda vale a pena salvar o planeta?",
-            "description": "",
+            "description": "Tem mais de 40 anos que as pessoas falam que o fim do agora. E se não for, ainda vale a pena salvar esse planeta?",
             "speakers": [
                 {
-                    "name": "",
-                    "subtitle": "",
-                    "photo": "/img/schedule/.jpg",
+                    "name": "Ana Emilia Cardoso",
+                    "subtitle": "Escritora",
+                    "photo": "/img/schedule/ana-emilia.jpg",
                     "twitter": null,
-                    "linkedin": "",
-                    "instagram": ""
+                    "linkedin": null,
+                    "instagram": null
                 },
                 {
-                    "name": "",
+                    "name": "Vitori Elena",
                     "subtitle": "",
-                    "photo": "/img/schedule/.jpg",
+                    "photo": "/img/schedule/vitori.jpg",
                     "twitter": null,
-                    "linkedin": "",
-                    "instagram": ""
+                    "linkedin": null,
+                    "instagram": null
                 }
             ]
         },
         {
-            "soon": false,
+            "soon": true,
             "type": "Palestra",
             "hour": "16:30 - 17:30",
             "room": "Sala 3",
