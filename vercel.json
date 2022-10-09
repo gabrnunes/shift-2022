@@ -1,0 +1,18 @@
+{
+    "redirects": [
+        {
+            "source": "/cadastro",
+            "destination": "https://www.sympla.com.br/evento/shft-festival-2022/1746253"
+        },
+        { "source": "/discord", "destination": "https://discord.com/invite/CdXMVPJxKe" },
+        {
+            "source": "/collab",
+            "destination": "https://www.notion.so/Sh-ft-Collab-71da843f37b64010ab02d3f4cf1c84cf"
+        },
+        { "source": "/news", "destination": "https://www.getrevue.co/profile/shiftfestival" },
+        {
+            "source": "/participar",
+            "destination": "https://docs.google.com/forms/d/e/1FAIpQLSe9Z8P6bMlgcuXr7xtI0MRNBHvqUrOaPiR_7u1LNOpIbLUBww/viewform"
+        }
+    ]
+}
