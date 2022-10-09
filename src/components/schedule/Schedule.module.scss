@@ -1,0 +1,12 @@
+@import "@styles/constants";
+
+.section {
+    background-color: $color-cream;
+}
+
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 4vw;
+    padding: 2vw 4vw;
+}

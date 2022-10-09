@@ -1,0 +1,29 @@
+@import "@styles/constants";
+
+.container {
+    -webkit-text-stroke: 2px $color-green;
+    -webkit-text-fill-color: transparent;
+    font-size: clamp(2.5rem, 3.5vw, 4.5rem);
+    font-family: $font-heading;
+    text-transform: uppercase;
+    position: relative;
+    padding: 3rem 0;
+
+    &.bigger {
+        font-size: clamp(5rem, 8vw, 8rem);
+        padding: 5rem 0;
+        -webkit-text-stroke: 2.5px $color-green;
+    }
+}
+
+.marquee {
+    overflow-y: hidden;
+    padding: 1.2vw 0;
+}
+
+.icon {
+    position: absolute;
+    top: 50%;
+    left: 5vw;
+    transform: translateY(-50%);
+}
