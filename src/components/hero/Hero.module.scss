@@ -1,4 +1,4 @@
-@import '@styles/constants';
+@import "@styles/constants";
 
 .hero {
     display: grid;
@@ -8,15 +8,33 @@
     grid-template-rows: 3fr 1fr;
     grid-template-columns: 2fr 1fr;
 
+    @media (max-width: 1110px) {
+        grid-template-rows: 3fr 100px 1fr;
+        grid-template-columns: 1fr;
+        height: auto;
+        min-height: 800px;
+    }
+
+    @media (max-width: 600px) {
+        min-height: 500px;
+    }
+
     .logo {
         grid-column: span 2;
         position: relative;
         justify-self: center;
         align-self: center;
-        max-width: 70%;
-        max-height: 60%;
-        width: 700px;
-        height: 300px;
+        width: 50%;
+        max-width: 700px;
+
+        img {
+            max-width: 100%;
+        }
+
+        @media (max-width: 1110px) {
+            grid-column: auto;
+            width: 70%;
+        }
     }
 
     .infoWrapper {
@@ -25,7 +43,12 @@
         justify-content: center;
         flex-direction: column;
         background-color: $color-red;
-        border-right: solid 6px rgba(0, 0, 0, .1);
+        border-right: solid 6px rgba(0, 0, 0, 0.1);
+
+        @media (max-width: 1110px) {
+            order: 3;
+            border-right: 0;
+        }
 
         .info {
             display: inline-flex;
@@ -36,7 +59,7 @@
                 font-family: $font-heading;
                 font-weight: 900;
                 text-transform: uppercase;
-                font-size: clamp(3rem, 5vw, 5rem);
+                font-size: clamp(1.75rem, 5vw, 5rem);
             }
 
             .location {
@@ -44,7 +67,7 @@
                 align-items: center;
                 column-gap: 24px;
                 width: 100%;
-                font-size: clamp(1.4rem, 2.5vw, 2.3rem);
+                font-size: clamp(0.75rem, 2.5vw, 2.3rem);
                 line-height: 1;
                 font-weight: 300;
                 text-transform: uppercase;

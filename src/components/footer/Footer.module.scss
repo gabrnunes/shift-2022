@@ -2,21 +2,50 @@
 
 .footer {
     background-color: #000000;
-    padding: 3vw 5vw;
+    padding: 3vw 4vw;
     display: flex;
     gap: 3vw;
+
+    @media (max-width: 1110px) {
+        flex-direction: column;
+        padding: 4vh 8vw;
+    }
+
+    img {
+        width: 16%;
+
+        @media (max-width: 1110px) {
+            width: 50%;
+        }
+    }
 
     .text {
         flex-grow: 1;
         font-family: $font-heading;
         color: $color-cream;
         text-transform: uppercase;
-        font-size: 2.7rem;
+        font-size: clamp(1.3rem, 2.5vw, 2.7rem);
     }
 
     .social {
         display: flex;
-        gap: 1vw;
+        flex-direction: column;
+        align-items: flex-end;
+        gap: 1rem;
+
+        @media (max-width: 1110px) {
+            align-items: flex-start;
+        }
+
+        .icons {
+            display: flex;
+            gap: 1rem;
+        }
+
+        a {
+            color: $color-yellow;
+            text-decoration: underline;
+        }
     }
 }
 
@@ -25,6 +54,12 @@
     font-size: 1.5rem;
     padding: 1.5rem;
     text-align: center;
+
+    @media (max-width: 1110px) {
+        text-align: left;
+        font-size: 1rem;
+        padding: 4vh 8vw;
+    }
 
     a {
         text-decoration: underline;

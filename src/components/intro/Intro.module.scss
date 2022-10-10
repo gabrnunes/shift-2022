@@ -1,4 +1,4 @@
-@import '@styles/constants';
+@import "@styles/constants";
 
 .introWrapper {
     display: flex;
@@ -14,7 +14,7 @@
     .headline {
         color: $color-cream;
         font-family: $font-heading;
-        font-size: clamp(3rem, 3.5vw, 3.5vw);
+        font-size: clamp(2rem, 3.5vw, 3.5vw);
         line-height: 1.2;
         text-transform: uppercase;
 
@@ -25,7 +25,7 @@
         }
 
         .circled::before {
-            content: '';
+            content: "";
             position: absolute;
             margin: auto;
             top: -9999px;
@@ -34,39 +34,43 @@
             bottom: -9999px;
             width: 125%;
             height: 125%;
-            background: url('/img/intro/circled-text.png') center center no-repeat transparent;
+            background: url("/img/intro/circled-text.png") center center no-repeat transparent;
             background-size: contain;
         }
 
         .glowed::before {
-            content: '';
+            content: "";
             position: absolute;
             top: -45%;
             left: -11%;
             width: 20%;
             height: 100%;
-            background: url('/img/intro/glowed-text.png') center center no-repeat transparent;
+            background: url("/img/intro/glowed-text.png") center center no-repeat transparent;
             background-size: contain;
         }
 
         .underlined::before {
-            content: '';
+            content: "";
             position: absolute;
             bottom: -5%;
             left: -2%;
             width: 110%;
             height: 100%;
-            background: url('/img/intro/underlined-text.png') center bottom no-repeat transparent;
+            background: url("/img/intro/underlined-text.png") center bottom no-repeat transparent;
             background-size: contain;
         }
     }
 
     .textBlock {
-        margin: 7vh auto 0;
+        margin: 2rem auto 0;
         max-width: 55%;
         font-size: clamp(1.2rem, 1.5vw, 1.5vw);
         font-weight: 300;
         line-height: 1.6;
         color: #ffffff;
+
+        @media (max-width: 1110px) {
+            max-width: 90%;
+        }
     }
 }

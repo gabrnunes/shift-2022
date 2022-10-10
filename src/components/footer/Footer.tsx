@@ -16,26 +16,31 @@ export default function Footer() {
                     Ágora Tech Park
                 </div>
                 <div className={styles.social}>
-                    <a
-                        href="https://twitter.com/shiftfestivalcc"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                    >
-                        <TwitterIcon />
-                    </a>
-                    <a
-                        href="https://www.instagram.com/shiftfestival.cc/"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                    >
-                        <InstagramIcon />
-                    </a>
-                    <a
-                        href="https://shiftfestival.cc/discord"
-                        target="_blank"
-                        rel="noreferrer noopener"
-                    >
-                        <DiscordIcon />
+                    <div className={styles.icons}>
+                        <a
+                            href="https://twitter.com/shiftfestivalcc"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <TwitterIcon />
+                        </a>
+                        <a
+                            href="https://www.instagram.com/shiftfestival.cc/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <InstagramIcon />
+                        </a>
+                        <a
+                            href="https://shiftfestival.cc/discord"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <DiscordIcon />
+                        </a>
+                    </div>
+                    <a href="https://www.getrevue.co/profile/shiftfestival">
+                        Assine nossa newsletter
                     </a>
                 </div>
             </section>

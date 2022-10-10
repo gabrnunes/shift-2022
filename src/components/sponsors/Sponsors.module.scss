@@ -2,12 +2,22 @@
 
 .section {
     background-color: $color-cream;
-    padding: 0 6rem;
-    padding-bottom: 6rem;
+    padding: 0 6vw;
+    padding-bottom: 6vw;
 }
 
 .container {
     display: flex;
+
+    @media (max-width: 1110px) {
+        flex-direction: column;
+    }
+
+    & .container {
+        @media (max-width: 1110px) {
+            flex-direction: row;
+        }
+    }
 }
 
 .sponsors {
@@ -19,6 +29,10 @@
     a {
         max-width: 16%;
         display: block;
+
+        @media (max-width: 1110px) {
+            max-width: 45%;
+        }
 
         img {
             width: 100%;
@@ -38,6 +52,10 @@
         max-width: 10%;
         display: block;
         margin-top: 5vh;
+
+        @media (max-width: 1110px) {
+            max-width: 33%;
+        }
 
         img {
             width: 100%;

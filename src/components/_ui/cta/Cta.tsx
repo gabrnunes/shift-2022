@@ -2,27 +2,28 @@ import ArrowIcon from "@components/_ui/arrowicon/ArrowIcon";
 import styles from "./Cta.module.scss";
 
 type Props = {
-    color: "yellow" | "red"
-}
+    color: "yellow" | "red";
+};
 
 export default function Cta(props: Props) {
     return (
-        <a href="#" className={[styles.cta, styles[props.color]].join(" ")}>
+        <a
+            href="https://www.sympla.com.br/evento/shft-festival-2022/1746253"
+            className={[styles.cta, styles[props.color]].join(" ")}
+        >
             <div className={styles.unhovered}>
                 <b>Garanta sua vaga</b>
             </div>
 
             <div className={styles.hovered}>
-                <span>Passaporte <data value="119.00">R$ 119</data></span>
+                <span>
+                    Passaporte <data value="119.00">R$ 119</data>
+                </span>
 
-                {props.color == "yellow" &&
-                    <ArrowIcon color="red" />
-                }
+                {props.color == "yellow" && <ArrowIcon color="red" />}
 
-                {props.color == "red" &&
-                    <ArrowIcon color="green" />
-                }
+                {props.color == "red" && <ArrowIcon color="green" />}
             </div>
         </a>
-    )
+    );
 }

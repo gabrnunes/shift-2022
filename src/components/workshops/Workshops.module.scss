@@ -10,24 +10,32 @@
     font-family: $font-heading;
     text-transform: uppercase;
     color: $color-cream;
-    font-size: clamp(2rem, 5vw, 7vw);
-    writing-mode: vertical-lr;
-    transform: rotate(-180deg);
+    font-size: clamp(2.5rem, 5vw, 7vw);
+    padding: 3vh 5vw;
 
-    position: absolute;
-    left: 3vw;
-    bottom: -20px;
+    @media (min-width: 1110px) {
+        writing-mode: vertical-lr;
+        transform: rotate(-180deg);
+        position: absolute;
+        left: 3vw;
+        bottom: -20px;
+        padding: 0;
+    }
 }
 
 .container {
     margin-left: 7vw;
+
+    @media (max-width: 1110px) {
+        margin: 0 3vw;
+    }
 }
 
 .subscribe {
     margin-top: 2.5rem;
     color: $color-yellow;
     position: relative;
-    font-size: 1.5rem;
+    font-size: clamp(1rem, 3.5vw, 1.5vw);
     text-transform: uppercase;
     font-weight: bold;
     padding-left: 110px;

@@ -6,7 +6,7 @@ export default function Hero() {
     return (
         <section className={styles.hero}>
             <div className={styles.logo}>
-                <Image src="/img/logo-shift.svg" alt="Logotipo do Shift Festival" layout="fill" objectFit="contain" />
+                <img src="/img/logo-shift.svg" alt="Logotipo do Shift Festival" />
             </div>
 
             <div className={styles.infoWrapper}>
@@ -24,5 +24,5 @@ export default function Hero() {
 
             <Cta color="yellow" />
         </section>
-    )
+    );
 }
