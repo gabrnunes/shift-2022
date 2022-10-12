@@ -25,7 +25,7 @@ export default function Workshops() {
                 closeModal={() => setIsModalOpen(false)}
             />
             <section className={styles.section}>
-                <h2 className={styles.title}>Workshops</h2>
+                <h2 className={styles.title}>Extras</h2>
                 <div className={styles.container}>
                     {workshopsList.map((item, index) => (
                         <Card key={index} workshop={item} handleClick={handleClick} />
@@ -33,7 +33,7 @@ export default function Workshops() {
 
                     <div className={styles.subscribe}>
                         <img src="/img/sparkles.png" width={100} />
-                        Chegue cedo e faça sua inscrição no credenciamento
+                        Enviaremos um formulário de inscrição por e-mail próximo ao evento.
                     </div>
                 </div>
             </section>

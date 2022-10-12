@@ -5,21 +5,21 @@
             "type": "Palestra",
             "hour": "09:00 - 10:00",
             "room": "Sala 1",
-            "title": "Criatividade requer otimismo",
-            "description": "Essa não é uma palestra de auto-ajuda, mas ajuda os criativos cansados. 'Criatividade não é sobre começar algo. É sobre fazer algo. Fazer requer esforço contínuo, e esforço contínuo requer combustível. Esse combustível é o otimismo. Se você está fazendo algo que não existe, você deve acreditar que pode. Isso é otimismo, esse é o sentimento. Essa é a reação química. Sem ela, a criatividade é estática.' Texto original por Jason Fried",
+            "title": "Tornando-se um profissional: criatividade além da inspiração",
+            "description": "Para a maioria das pessoas, ser criativo é uma característica associada a um dom natural. Essa noção acaba afastando muita gente de atividades que exigem criatividade ou, até mesmo, de aplicar princípios de criação em suas próprias áreas de atuação. A verdade, no entanto, é que criatividade é um processo e uma postura profissional que podem ser compreendidos e replicados.",
             "speakers": [
                 {
-                    "name": "Startup da Real",
-                    "subtitle": "Alberto Brandão",
+                    "name": "Alberto Brandão (Startup da Real)",
+                    "subtitle": "Escritor e Produtor de Conteúdo",
                     "photo": "/img/schedule/alberto-brandao.jpg",
-                    "twitter": null,
-                    "linkedin": null,
-                    "instagram": null
+                    "twitter": "https://www.twitter.com/startupdareal/",
+                    "linkedin": "https://www.linkedin.com/in/aalbertobrandao/",
+                    "instagram": "https://www.instagram.com/startupdareal/"
                 }
             ]
         },
         {
-            "soon": false,
+            "soon": true,
             "type": "Painel",
             "hour": "09:30 - 10:30",
             "room": "Sala 2",
@@ -54,11 +54,11 @@
             "speakers": [
                 {
                     "name": "Rafaela Rodrigues",
-                    "subtitle": "",
+                    "subtitle": "Arquiteta, Urbanista, Mestre em Design e Entusiasta de processos participativos",
                     "photo": "/img/schedule/rafaela-rodrigues.jpg",
                     "twitter": null,
-                    "linkedin": null,
-                    "instagram": null
+                    "linkedin": "https://www.linkedin.com/in/rafaela-rodrigues-945793178/",
+                    "instagram": "https://www.instagram.com/rafa__________________/"
                 }
             ]
         }
@@ -81,11 +81,11 @@
                 },
                 {
                     "name": "Rodrigo Ghedin",
-                    "subtitle": "",
+                    "subtitle": "Editor @ Manual do Usuário",
                     "photo": "/img/schedule/rodrigo-ghedin.jpg",
-                    "twitter": null,
-                    "linkedin": "https://linkedin.com/in/beatrizguarezi",
-                    "instagram": "https://instagram.com/bitstobrands"
+                    "twitter": "https://twitter.com/ghedin",
+                    "linkedin": "https://www.linkedin.com/in/rodrigoghedin/",
+                    "instagram": null
                 }
             ]
         },
@@ -98,12 +98,12 @@
             "description": "Seja Minecraft, LoL, Free Fire, CS ou qualquer outro jogo, o Brasil conta com mais de 100 milhões de jogadores de jogos online. Já despontamos em campeonatos mundiais. E bem antes da onda de comunidade chegar às marcas e personalidades, a comunidade gamer se organiza há muito tempo dessa forma. Mas afinal, para onde vão as comunidades gamers no Brasil? O que querem? Quais os próximos passos para comunidades avançadas?",
             "speakers": [
                 {
-                    "name": "João Borges Jr.",
-                    "subtitle": "",
+                    "name": "João Borges",
+                    "subtitle": "Co-fundador da BAYZ",
                     "photo": "/img/schedule/joao-borges.jpg",
-                    "twitter": null,
-                    "linkedin": null,
-                    "instagram": null
+                    "twitter": "https://twitter.com/joaocsb",
+                    "linkedin": "https://www.linkedin.com/in/joaoborgesjr",
+                    "instagram": "https://instagram.com/joaocsb"
                 },
                 {
                     "name": "Jessin",
@@ -120,24 +120,24 @@
             "type": "Palestra",
             "hour": "10:30 - 11:30",
             "room": "Sala 3",
-            "title": "A ditadura do bom gosto",
-            "description": "Quem define o que é bonito e no que se baseia nosso senso estético? De quem são os conceitos que seguimos? O bom gosto é uma lenda? Designers e criativos precisam deixar o ego de lado e compreender que não é porque não gostamos de alguma coisa que ela não seja realmente boa. Os fundamentos do design ocidental não são tão democráticos quanto parecem, eles refletem hierarquias de poder e preconceitos. O mar de referências resulta em mesmice estética. Design e comunicação tem um ritmo alucinante. Hoje, tendências ficam velhas muito rápido. Tradição não dá espaço para experimentação… E quando algo que parece novo surge, é massacrado por críticas, resultando em um estreitamento do pensar e visuais repetitivos. Você já teve a impressão de que já viu tudo o que tem na internet? Não é por isso que estamos todos cansados?",
+            "title": "Prisioneiros do bom gosto",
+            "description": "Designers e criativos precisam deixar o ego de lado e compreender que não é porque não gostamos de alguma coisa que ela não seja realmente boa. Os fundamentos do design ocidental não são tão democráticos quanto parecem, eles refletem hierarquias de poder e preconceitos. O mar de referências resulta em mesmice estética. Design e comunicação têm um ritmo alucinante. Hoje, tendências ficam velhas muito rápido. Tradição não dá espaço para experimentação… E quando algo que parece novo surge, é massacrado por críticas, resultando em um estreitamento do pensar e visuais repetitivos. Você já teve a impressão de que já viu tudo que tem na internet? Não é por isso que estamos todos cansados?",
             "speakers": [
                 {
-                    "name": "João Wittkowski",
-                    "subtitle": "",
+                    "name": "João Luiz Wittkowski",
+                    "subtitle": "Designer no SELF Design Studio",
                     "photo": "/img/schedule/joao-wittkowski.jpg",
                     "twitter": null,
-                    "linkedin": null,
-                    "instagram": null
+                    "linkedin": "https://www.linkedin.com/in/joaowitt/",
+                    "instagram": "https://www.instagram.com/joaowitt/"
                 },
                 {
-                    "name": "Isabela Sanson",
-                    "subtitle": "",
+                    "name": "Isah Sanson",
+                    "subtitle": "Design Strategist no SELF Design Studio",
                     "photo": "/img/schedule/isabela-sanson.jpg",
                     "twitter": null,
-                    "linkedin": null,
-                    "instagram": null
+                    "linkedin": "https://www.linkedin.com/in/isahsanson/",
+                    "instagram": "https://www.instagram.com/isahsanson/"
                 }
             ]
         }
@@ -151,20 +151,20 @@
             "description": "A gente queria explicar nessa descrição exatamente o que é o metaverso, mas a gente não pode porque não sabemos o que é. Seria o Second Life em versão atualizada? The Sims com maior interação? Precisa ter óculos de realidade aumentada? A medida do terreno é em pixels e o preço em dólar? A gente também não sabe! Mas esse bate-papo vai ser justamente pra nos ajudar a tirar todas essas dúvidas e entender, por fim, o que é o metaverso (depois do painel editamos a descrição pra explicar melhor).",
             "speakers": [
                 {
-                    "name": "Daniela Zschaber",
-                    "subtitle": "Marketing Manager na NFTFY",
-                    "photo": "/img/schedule/daniela-zschaber.jpeg",
-                    "twitter": null,
-                    "linkedin": "https://www.linkedin.com/in/daniela-zschaber/",
-                    "instagram": "https://instagram.com/danimim"
-                },
-                {
                     "name": "Tim Balabuch",
                     "subtitle": "Fundador PFP Supply Co.",
                     "photo": "/img/schedule/tim-balabuch.jpg",
                     "twitter": null,
                     "linkedin": "https://www.linkedin.com/in/balabuch",
                     "instagram": "https://www.instagram.com/timbalabuch/"
+                },
+                {
+                    "name": "Daniela Zschaber",
+                    "subtitle": "Marketing Manager na NFTFY",
+                    "photo": "/img/schedule/daniela-zschaber.jpeg",
+                    "twitter": null,
+                    "linkedin": "https://www.linkedin.com/in/daniela-zschaber/",
+                    "instagram": "https://instagram.com/danimim"
                 }
             ]
         },
@@ -173,16 +173,16 @@
             "type": "Painel",
             "hour": "14:00 - 15:00",
             "room": "Sala 2",
-            "title": "Sh*ft convida criativos cansados",
-            "description": "",
+            "title": "Sh*ft convida criativos para uma roda de conversa sobre comunidades",
+            "description": "Embora o termo comunidades tenha ganhado destaque nos relatórios de tendências mundo afora recentemente, já faz tempo que descobrimos o valor de uma comunidade engajada e apaixonada. Para o SH*FT Festival, esse ecossistema colaborativo não só existe como é também o responsável por viabilizar projetos incríveis, financeiramente e operacionalmente. Mas, na prática, como nasce um ecossistema colaborativo? Vem com a gente que a gente te conta.",
             "speakers": [
                 {
-                    "name": "",
-                    "subtitle": "",
-                    "photo": "/img/schedule/.jpg",
-                    "twitter": null,
-                    "linkedin": "",
-                    "instagram": ""
+                    "name": "Criativos Cansados S.A.",
+                    "subtitle": "Pessoas que participam da comunidade colaborativa do Sh*ft",
+                    "photo": "/img/schedule/shift.jpg",
+                    "twitter": "https://twitter.com/shiftfestivalcc",
+                    "linkedin": "https://www.linkedin.com/company/shiftfestival/",
+                    "instagram": "https://www.instagram.com/shiftfestival.cc/"
                 }
             ]
         },
@@ -238,15 +238,15 @@
             "hour": "15:30 - 16:30",
             "room": "Sala 2",
             "title": "A inovação radical da Web3: quando a tecnologia se encontra com a arte",
-            "description": "",
+            "description": "A Kusama é uma rede escalável multi-blockchain para inovação radical e um caminho de atualização pra Polkadot. Espere o caos. Sem promessas. Através dela vários projetos de arte são financiados e executados de forma descentralizada.",
             "speakers": [
                 {
                     "name": "Lauro Gripa",
                     "subtitle": "",
                     "photo": "/img/schedule/lauro-gripa.jpg",
-                    "twitter": null,
-                    "linkedin": "",
-                    "instagram": ""
+                    "twitter": "https://twitter.com/laurogripa",
+                    "linkedin": null,
+                    "instagram": null
                 }
             ]
         },
@@ -256,12 +256,12 @@
             "hour": "15:00 - 16:00",
             "room": "Sala 3",
             "title": "Semana de 4 dias e o futuro do trampo",
-            "description": "Precisamos continuar produzindo 44 horas e 5 dias por semana? A produtividade não vem de passarmos mais de 33% do nosso dia focados no trabalho (fora o deslocamento para chegar lá). Já falamos em futuro de consumo, futuro do serviço e tantos outros futuros, mas e o futuro do trampo? Para onde as tendências apontam e de que forma a gente se prepara para isso?",
+            "description": "Precisamos continuar produzindo 44 horas e 5 dias por semana? A produtividade não vem de passarmos mais de 33% do nosso dia focados no trabalho (fora o deslocamento para chegar lá). Já falamos em futuro de consumo, futuro do serviço e tantos outros futuros, mas e o futuro do trampo? Para onde as tendências apontam e de que forma a gente se prepara para isso? Aqui, vamos discutir o futuro do trabalho, semana de 4 dias e como a IA vai mudar a sua rotina.",
             "speakers": [
                 {
-                    "name": "",
-                    "subtitle": "",
-                    "photo": "/img/schedule/.jpg",
+                    "name": "Junior Vendrami",
+                    "subtitle": "Designer estrategista na Bubbleless",
+                    "photo": "/img/schedule/junior.jpg",
                     "twitter": null,
                     "linkedin": "",
                     "instagram": ""
@@ -271,7 +271,7 @@
     ],
     [
         {
-            "soon": false,
+            "soon": true,
             "type": "Painel",
             "hour": "16:30 - 17:30",
             "room": "Sala 1",
@@ -279,12 +279,12 @@
             "description": "09 em cada 10 publicações do linkedin usam a palavra inovação e muitas ainda falam do exemplo da Blockbuster ou Kodak. Ninguém aguenta mais!!! Vamos falar sobre inovação em terras brasileiras, com as ferramentas e possibilidades que existem para um país tropical, com tanta dificuldade como o nosso. Queremos entender como empresas realmente inovadoras fazem inovação de verdade no seu dia-a-dia.",
             "speakers": [
                 {
-                    "name": "",
-                    "subtitle": "",
-                    "photo": "/img/schedule/.jpg",
+                    "name": "Victória Scherer",
+                    "subtitle": "Co-fundadora da Não Tenho Roupa",
+                    "photo": "/img/schedule/victoria-scherer.jpg",
                     "twitter": null,
-                    "linkedin": "",
-                    "instagram": ""
+                    "linkedin": "https://www.linkedin.com/in/vict%C3%B3ria-scherer/",
+                    "instagram": "https://www.instagram.com/victoriaschererr/"
                 },
                 {
                     "name": "",
@@ -305,38 +305,20 @@
             "description": "Tem mais de 40 anos que as pessoas falam que o fim do agora. E se não for, ainda vale a pena salvar esse planeta?",
             "speakers": [
                 {
-                    "name": "Ana Emilia Cardoso",
+                    "name": "Ana Cardoso",
                     "subtitle": "Escritora",
-                    "photo": "/img/schedule/ana-emilia.jpg",
-                    "twitter": null,
-                    "linkedin": null,
-                    "instagram": null
+                    "photo": "/img/schedule/ana-cardoso.jpg",
+                    "twitter": "https://twitter.com/casadeanita",
+                    "linkedin": "https://www.linkedin.com/in/ana-em%C3%ADlia-cardoso-43361728/",
+                    "instagram": "https://www.instagram.com/ana_emilia_cardoso/"
                 },
                 {
-                    "name": "Vitori Elena",
-                    "subtitle": "",
+                    "name": "Vitorí Helena",
+                    "subtitle": "Trend Forecaster e Organizadora do TEDx Floripa",
                     "photo": "/img/schedule/vitori.jpg",
                     "twitter": null,
-                    "linkedin": null,
-                    "instagram": null
-                }
-            ]
-        },
-        {
-            "soon": true,
-            "type": "Palestra",
-            "hour": "16:30 - 17:30",
-            "room": "Sala 3",
-            "title": "Call 4 papers",
-            "description": "",
-            "speakers": [
-                {
-                    "name": "",
-                    "subtitle": "",
-                    "photo": "/img/schedule/.jpg",
-                    "twitter": null,
-                    "linkedin": "",
-                    "instagram": ""
+                    "linkedin": "https://www.linkedin.com/in/vitoridasilva/",
+                    "instagram": "https://www.instagram.com/vihtcoin/"
                 }
             ]
         }
