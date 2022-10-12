@@ -36,7 +36,9 @@ export default function IndexController() {
             <Hero />
             <Illustration />
             <Intro />
+            <Schedule />
             <JoinTheChange />
+            <Workshops />
             <Faq />
             <Sponsors />
             <Footer />

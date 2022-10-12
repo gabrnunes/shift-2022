@@ -21,6 +21,7 @@
     width: 60px;
     height: 60px;
     border-radius: 100%;
+    flex: 0 0 60px;
 
     img {
         border-radius: 100%;
@@ -43,7 +44,7 @@
 }
 
 .title {
-    font-size: clamp(1.5rem, 3vw, 4vw);
+    font-size: clamp(1.5rem, 2vw, 4vw);
     text-transform: uppercase;
     color: $color-green-light;
     margin: 1rem 0;

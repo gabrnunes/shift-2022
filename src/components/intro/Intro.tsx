@@ -23,11 +23,6 @@ export default function Intro() {
                     horizontes, faça parte de um grande movimento.
                 </p>
             </section>
-            <Rolante
-                icon="/img/asteristico.svg"
-                text="Programação e workshops em breve"
-                joke="Programação e workshops em breve"
-            />
         </>
     );
 }

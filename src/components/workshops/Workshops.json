@@ -1,16 +1,30 @@
 [
     {
-        "hour": "09:00 - 10:00",
-        "room": "Sala 1",
-        "title": "Criatividade requer otimismo",
-        "description": "",
+        "hour": "13:30 - 14:30",
+        "room": "Ágora Tech Park",
+        "title": "Oficina de segurança digital: autenticação de dois fatores",
+        "description": "A autenticação em dois fatores é uma função poderosa de segurança. Disponibilizada por várias empresas, ela ainda pouco usada. Neste workshop, aprenderemos na prática como configurá-la em redes sociais e serviços de e-mail. Também teremos um espaço para tirar outras dúvidas relacionadas à segurança digital. Para participar é necessário um celular com um aplicativo de OTP instalado — Aegis Authenticator, Raivo OTP, Authy, Google/Microsoft Authenticator etc.",
         "speaker": {
-            "name": "Startup da Real",
-            "subtitle": "Alberto Brandão",
-            "photo": "/img/schedule/beatriz-guarezi.jpg",
+            "name": "Rodrigo Ghedin",
+            "subtitle": "Editor @ Manual do Usuário",
+            "photo": "/img/schedule/rodrigo-ghedin.jpg",
+            "twitter": "https://twitter.com/ghedin",
+            "linkedin": "https://www.linkedin.com/in/rodrigoghedin/",
+            "instagram": null
+        }
+    },
+    {
+        "hour": "14:00 - 15:00",
+        "room": "FabLab",
+        "title": "Workshop de Minifoguetes",
+        "description": "A oficina de minifoguetes ministrada pela equipe de competição Kosmos Rocketry consiste na explicação dos conceitos e componentes básicos presentes em um veículo aeroespacial, mas aplicados a um modelo em pequena escala. O participante terá a experiência de construir um modelo de foguete experimental na prática com o auxílio dos membros da equipe e terá a oportunidade de lançá-lo.",
+        "speaker": {
+            "name": "Pedro Lucas",
+            "subtitle": "Diretor da Kosmos Rocketry",
+            "photo": "/img/schedule/pedro-lucas.jpg",
             "twitter": null,
             "linkedin": null,
-            "instagram": null
+            "instagram": "https://www.instagram.com/kosmosrocketry/"
         }
     }
 ]
