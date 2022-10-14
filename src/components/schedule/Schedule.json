@@ -27,12 +27,12 @@
             "description": "",
             "speakers": [
                 {
-                    "name": "Charles Caubi",
-                    "subtitle": "",
+                    "name": "Charles Caubi Brandão",
+                    "subtitle": "Diretor da Escola dos Sonhos",
                     "photo": "/img/schedule/charles-caubi.jpg",
                     "twitter": null,
                     "linkedin": null,
-                    "instagram": null
+                    "instagram": "https://www.instagram.com/escoladsonhos/"
                 },
                 {
                     "name": "Simone de Oliveira",
