@@ -49,8 +49,8 @@
             "type": "Palestra",
             "hour": "09:00 - 10:00",
             "room": "Sala 3",
-            "title": "Como melhorar a cidade que a gente tem hoje?",
-            "description": "A gente nasce e morre nas cidades e elas acumulam problemas bem antigos, como o saneamento e bem novos, como a conectividade. Queremos entender, como eu e você, podemos - dentro da nossa possibilidade - melhorar as cidades que temos hoje. Quais são as ferramentas que podemos usar?",
+            "title": "Caminhos possíveis para melhoria das cidades que temos hoje",
+            "description": "Queremos entender, como eu, você, podemos - dentro da nossa possibilidade - melhorar as cidades que temos hoje. Quais são as iniciativas, ferramentas e movimentos possíveis?",
             "speakers": [
                 {
                     "name": "Rafaela Rodrigues",
@@ -187,20 +187,20 @@
             ]
         },
         {
-            "soon": true,
+            "soon": false,
             "type": "Palestra",
             "hour": "13:30 - 14:30",
             "room": "Sala 3",
-            "title": "A espiritualidade nos dias atuais",
-            "description": "Estamos focados em melhorar o nosso currículo, ter relações reais, reciclar o lixo, votar direito, comer alimentos orgânicos e fazer atividades físicas. Falamos sobre comunicação não violenta e mindfulness, compartilhamos ideias sobre tudo isso mas, quando o assunto é espiritualidade, nossa experiência com espiritualidade é a mesma de quando éramos crianças. Deixamos de lado esse assunto por muito tempo, onde a espiritualidade se encaixa em pleno 2022? O que a gente tem a ver com espiritualidade?",
+            "title": "A espiritualidade nos tempos atuais",
+            "description": "A espiritualidade é um fenômeno humano que sempre nos acompanhou através das gerações. Conforme evoluímos enquanto intelecto e compreensão científica da existência a nossa noção de espiritualidade tem adotado cada vez mais formas de manifestação. Qual o fio condutor que liga todas estas formas? E como viver uma vida espiritual nos tempos atuais?",
             "speakers": [
                 {
-                    "name": "",
-                    "subtitle": "",
-                    "photo": "/img/schedule/.jpg",
+                    "name": "Artur Aguiar",
+                    "subtitle": "Psicólogo, Terapeuta e Professor de Kung Fu",
+                    "photo": "/img/schedule/artur-aguiar.jpg",
                     "twitter": null,
-                    "linkedin": "",
-                    "instagram": ""
+                    "linkedin": null,
+                    "instagram": "https://www.instagram.com/artur_aguiar_terapeuta"
                 }
             ]
         }
