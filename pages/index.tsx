@@ -1,3 +1,5 @@
+import Head from "next/head";
+
 import Faq from "@components/faq/Faq";
 import Footer from "@components/footer/Footer";
 import Hero from "@components/hero/Hero";
@@ -7,7 +9,6 @@ import Intro from "@components/intro/Intro";
 import Sponsors from "@components/sponsors/Sponsors";
 import Schedule from "@components/schedule/Schedule";
 import Workshops from "@components/workshops/Workshops";
-import Head from "next/head";
 
 export default function IndexController() {
     return (
@@ -24,7 +25,7 @@ export default function IndexController() {
                     property="og:description"
                     content="Um festival de criatividade, inovação, futuro e sociedade que reúne pessoas incríveis para discutir ideias que impactam a forma como vivemos."
                 />
-                <meta name="twitter:site" content={`@shiftfestivalcc`} />
+                <meta name="twitter:site" content="@shiftfestivalcc" />
                 <meta name="twitter:card" content="summary_large_image" />
                 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
                 <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
