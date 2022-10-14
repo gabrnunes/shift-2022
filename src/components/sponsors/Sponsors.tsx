@@ -83,6 +83,20 @@ export default function Sponsors() {
                         >
                             <img src="/img/sponsors/garten-shopping.png" alt="Garten Shopping" />
                         </a>
+                        <a
+                            href="https://www.facebook.com/EditalPaineis/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/edital.svg" alt="Edital Painéis" />
+                        </a>
+                        <a
+                            href="https://www.ainglobal.com.br/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/ain-global.svg" alt="AinGlobal" />
+                        </a>
                     </div>
                 </div>
                 <div className={styles.madeBy}>
