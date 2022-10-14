@@ -19,7 +19,7 @@
             ]
         },
         {
-            "soon": true,
+            "soon": false,
             "type": "Painel",
             "hour": "09:30 - 10:30",
             "room": "Sala 2",
@@ -35,8 +35,8 @@
                     "instagram": "https://www.instagram.com/escoladsonhos/"
                 },
                 {
-                    "name": "Simone de Oliveira",
-                    "subtitle": "",
+                    "name": "Simone Oliveira",
+                    "subtitle": "Pedagoga",
                     "photo": "/img/schedule/simone-oliveira.jpg",
                     "twitter": null,
                     "linkedin": null,
