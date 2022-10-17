@@ -1,5 +1,19 @@
 [
     {
+        "hour": "8:00 - 9:00",
+        "room": "Ágora Tech Park",
+        "title": "Meditação: despertando a consciência",
+        "description": "Meditação seguida de uma aula de yoga para iniciarmos nosso dia com vitalidade e energia, despertando o corpo e a mente. Requisitos para as práticas: use roupas confortáveis que te permitam se movimentar, traga seu tapetinho, toalha de praia ou canga e garrafinha de água.",
+        "speaker": {
+            "name": "Itrio Woods",
+            "subtitle": "Professor de Yoga",
+            "photo": "/img/schedule/itrio-woods.jpg",
+            "twitter": null,
+            "linkedin": null,
+            "instagram": "https://www.instagram.com/anandayogaparatodos/"
+        }
+    },
+    {
         "hour": "9:30 - 12:00",
         "room": "FabLab",
         "title": "Utilizando programação para composição e performance musical",
@@ -11,6 +25,20 @@
             "twitter": null,
             "linkedin": null,
             "instagram": null
+        }
+    },
+    {
+        "hour": "12:45 - 13:30",
+        "room": "Ágora Tech Park",
+        "title": "Meditação e yoga",
+        "description": "Uma aula mais leve e restaurativa após o almoço, com exercícios de relaxamento e respiração, para revigorar a mente e corpo. Requisitos para as práticas: use roupas confortáveis que te permitam se movimentar, traga seu tapetinho, toalha de praia ou canga e garrafinha de água.",
+        "speaker": {
+            "name": "Paloma Cristina Moreira",
+            "subtitle": "Professora de Yoga",
+            "photo": "/img/schedule/paloma-moreira.jpg",
+            "twitter": null,
+            "linkedin": null,
+            "instagram": "https://www.instagram.com/anandayogaparatodos/"
         }
     },
     {
@@ -39,6 +67,20 @@
             "twitter": null,
             "linkedin": null,
             "instagram": "https://www.instagram.com/kosmosrocketry/"
+        }
+    },
+    {
+        "hour": "15:00 - 15:30",
+        "room": "Ágora Tech Park",
+        "title": "Roda de Danças Circulares",
+        "description": "Uma modalidade de dança coletiva que oferece a experiência da cooperação e da integração entre as pessoas. Indicada para pessoas de todas as idades, que já dancem ou que nunca tenha dançado na vida. Um momento para exercitar a consciência corporal, a memória e acalmar o emocional. Requisitos para as práticas: use roupas confortáveis que te permitam se movimentar, pode ser saia, vestido ou calça e, use calçado confortável.",
+        "speaker": {
+            "name": "Maureen Bartz",
+            "subtitle": "Focalizadora de Danças Circulares",
+            "photo": "/img/schedule/maureen-bartz.jpg",
+            "twitter": null,
+            "linkedin": null,
+            "instagram": "https://www.instagram.com/anandayogaparatodos/"
         }
     }
 ]

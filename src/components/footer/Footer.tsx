@@ -39,7 +39,7 @@ export default function Footer() {
                             <DiscordIcon />
                         </a>
                     </div>
-                    <a href="https://www.getrevue.co/profile/shiftfestival">
+                    <a href="https://shiftfestival.substack.com/">
                         Assine nossa newsletter
                     </a>
                 </div>
