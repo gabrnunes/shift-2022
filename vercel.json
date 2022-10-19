@@ -17,6 +17,10 @@
         {
             "source": "/midia-kit",
             "destination": "https://docs.google.com/presentation/d/e/2PACX-1vTG34DaVA9knBgVUyR8IoCZ3t25-mz51CjytP-XQlF2EqLYDqwtbCLWek1lfC3k9YgHXFgcdjd5hIZM/pub?start=false&loop=false&delayms=3000"
+        },
+        {
+            "source": "/ig",
+            "destination": "https://shiftfestival.cc/?utm_source=ig-bio"
         }
     ]
 }
