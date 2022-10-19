@@ -3,7 +3,7 @@
         {
             "soon": true,
             "type": "Painel",
-            "hour": "15:00 - 16:00",
+            "hour": "09:00 - 10:00",
             "room": "Sala 1",
             "title": "Precisamos desligar a internet?",
             "description": "",
@@ -100,7 +100,7 @@
         {
             "soon": false,
             "type": "Painel",
-            "hour": "14:00 - 15:00",
+            "hour": "11:00 - 12:00",
             "room": "Sala 2",
             "title": "Sh*ft convida criativos para uma roda de conversa sobre comunidades",
             "description": "Embora o termo comunidades tenha ganhado destaque nos relatórios de tendências mundo afora recentemente, já faz tempo que descobrimos o valor de uma comunidade engajada e apaixonada. Para o SH*FT Festival, esse ecossistema colaborativo não só existe como é também o responsável por viabilizar projetos incríveis, financeiramente e operacionalmente. Mas, na prática, como nasce um ecossistema colaborativo? Vem com a gente que a gente te conta.",
@@ -172,7 +172,7 @@
         {
             "soon": false,
             "type": "Painel",
-            "hour": "11:00 - 12:00",
+            "hour": "14:00 - 15:00",
             "room": "Sala 2",
             "title": "Comunidades gamers no Brasil",
             "description": "Seja Minecraft, LoL, Free Fire, CS ou qualquer outro jogo, o Brasil conta com mais de 100 milhões de jogadores de jogos online. Já despontamos em campeonatos mundiais. E bem antes da onda de comunidade chegar às marcas e personalidades, a comunidade gamer se organiza há muito tempo dessa forma. Mas afinal, para onde vão as comunidades gamers no Brasil? O que querem? Quais os próximos passos para comunidades avançadas?",
@@ -218,7 +218,7 @@
         {
             "soon": true,
             "type": "Painel",
-            "hour": "16:30 - 17:30",
+            "hour": "15:00 - 16:00",
             "room": "Sala 1",
             "title": "Inovação real/oficial",
             "description": "09 em cada 10 publicações do linkedin usam a palavra inovação e muitas ainda falam do exemplo da Blockbuster ou Kodak. Ninguém aguenta mais!!! Vamos falar sobre inovação em terras brasileiras, com as ferramentas e possibilidades que existem para um país tropical, com tanta dificuldade como o nosso. Queremos entender como empresas realmente inovadoras fazem inovação de verdade no seu dia-a-dia.",
@@ -282,7 +282,7 @@
         {
             "soon": false,
             "type": "Palestra",
-            "hour": "09:00 - 10:00",
+            "hour": "16:30 - 17:30",
             "room": "Sala 1",
             "title": "Tornando-se um profissional: criatividade além da inspiração",
             "description": "Para a maioria das pessoas, ser criativo é uma característica associada a um dom natural. Essa noção acaba afastando muita gente de atividades que exigem criatividade ou, até mesmo, de aplicar princípios de criação em suas próprias áreas de atuação. A verdade, no entanto, é que criatividade é um processo e uma postura profissional que podem ser compreendidos e replicados.",
