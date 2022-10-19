@@ -20,7 +20,7 @@ export default function Modal(props: Props) {
         <div className={styles.bg} onClick={props.closeModal}>
             <div className={styles.modal} onClick={(e) => e.stopPropagation()}>
                 <header className={styles.header}>
-                    <span className={styles.type}>Workshop</span>
+                    <span className={styles.type}>Extras</span>
                     <span className={styles.close} onClick={props.closeModal}>
                         <img src="/img/close.svg" />
                     </span>

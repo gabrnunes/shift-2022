@@ -1,4 +1,4 @@
-@import '@styles/constants';
+@import "@styles/constants";
 
 .faq {
     padding: 14vh 0;
@@ -14,5 +14,9 @@
     .questionsWrapper {
         margin-top: 6vh;
         width: 100%;
+    }
+
+    a {
+        text-decoration: underline;
     }
 }

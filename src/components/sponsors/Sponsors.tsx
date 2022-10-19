@@ -97,6 +97,20 @@ export default function Sponsors() {
                         >
                             <img src="/img/sponsors/ain-global.svg" alt="AinGlobal" />
                         </a>
+                        <a
+                            href="https://www.acredi.coop.br/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/acredi.svg" alt="Acredicoop" />
+                        </a>
+                        <a
+                            href="https://appbrasil.org.br/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/app.svg" alt="APP Brasil" />
+                        </a>
                     </div>
                 </div>
                 <div className={styles.madeBy}>

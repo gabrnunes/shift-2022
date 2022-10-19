@@ -1,17 +1,17 @@
 import styles from "./Faq.module.scss";
-import questionList from "./FaqQuestionList.json";
+import questionList from "./FaqQuestionList.jsx";
 import FaqQuestion from "./question/FaqQuestion";
 
 export default function Faq() {
     return (
         <section className={styles.faq}>
-            <h2 className={styles.heading}>
-                Duvida? Duvido!
-            </h2>
+            <h2 className={styles.heading}>Duvida? Duvido!</h2>
 
             <div className={styles.questionsWrapper}>
-                {questionList.map((item, index) => <FaqQuestion question={item.question} answer={item.answer} key={index} />)}
+                {questionList.map((item, index) => (
+                    <FaqQuestion question={item.question} answer={item.answer} key={index} />
+                ))}
             </div>
         </section>
-    )
+    );
 }

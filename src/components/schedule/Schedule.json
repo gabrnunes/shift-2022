@@ -216,7 +216,7 @@
     ],
     [
         {
-            "soon": true,
+            "soon": false,
             "type": "Painel",
             "hour": "15:00 - 16:00",
             "room": "Sala 1",
@@ -232,12 +232,12 @@
                     "instagram": "https://www.instagram.com/victoriaschererr/"
                 },
                 {
-                    "name": "",
-                    "subtitle": "",
-                    "photo": "/img/schedule/.jpg",
+                    "name": "Guilherme Machado",
+                    "subtitle": "Head de Marketing na Tüm Energy Drink",
+                    "photo": "/img/schedule/guilherme-machado.jpg",
                     "twitter": null,
-                    "linkedin": "",
-                    "instagram": ""
+                    "linkedin": "https://www.linkedin.com/in/guilherme-machado-felippe-b00ab7171",
+                    "instagram": "https://instagram.com/guilhermemfelippe"
                 }
             ]
         },
