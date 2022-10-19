@@ -37,8 +37,8 @@ export default function Floating() {
             })}
         >
             <p className={styles.testimonial}>
-                "Evento realmente muito legal, com uma galera muito alto astral. <br />
-                Teve muito conteúdo muito bom em um ambiente ótimo e leve."
+                {'"'}Evento realmente muito legal, com uma galera muito alto astral. <br />
+                Teve muito conteúdo muito bom em um ambiente ótimo e leve.{'"'}
             </p>
             <Cta color="red" />
         </div>

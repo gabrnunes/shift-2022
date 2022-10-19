@@ -1,9 +1,10 @@
-import styles from "./FaqQuestion.module.scss"
+import { ReactChild } from "react";
+import styles from "./FaqQuestion.module.scss";
 
 type Props = {
-    question: string
-    answer: string
-}
+    question: string;
+    answer: string | ReactChild;
+};
 
 export default function FaqQuestion(props: Props) {
     return (
@@ -11,5 +12,5 @@ export default function FaqQuestion(props: Props) {
             <summary className={styles.question}>{props.question}</summary>
             <p className={styles.answer}>{props.answer}</p>
         </details>
-    )
+    );
 }
