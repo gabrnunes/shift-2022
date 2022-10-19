@@ -76,24 +76,24 @@
             "type": "Painel",
             "hour": "10:30 - 11:30",
             "room": "Sala 1",
-            "title": "A internet virou um grande shopping",
-            "description": "A cada dois stories, uma propaganda. A cada tweet em uma thread, uma propaganda. A atualização nova do aplicativo tem uma aba de shopping, o post do influenciador é só publi. Os artigos são quase todos pagos. O jeito que a gente usa as redes sociais vira dado, que vira produto, que vira venda. Sobrou alguma coisa entre 1 meme de gatinho e 3463 propagandas?",
+            "title": "A real sobre o tal metaverso",
+            "description": "A gente queria explicar nessa descrição exatamente o que é o metaverso, mas a gente não pode porque não sabemos o que é. Seria o Second Life em versão atualizada? The Sims com maior interação? Precisa ter óculos de realidade aumentada? A medida do terreno é em pixels e o preço em dólar? A gente também não sabe! Mas esse bate-papo vai ser justamente pra nos ajudar a tirar todas essas dúvidas e entender, por fim, o que é o metaverso (depois do painel editamos a descrição pra explicar melhor).",
             "speakers": [
                 {
-                    "name": "Beatriz Guarezi",
-                    "subtitle": "Criadora da Bits to Brands",
-                    "photo": "/img/schedule/beatriz-guarezi.jpg",
+                    "name": "Tim Balabuch",
+                    "subtitle": "Fundador PFP Supply Co.",
+                    "photo": "/img/schedule/tim-balabuch.jpg",
                     "twitter": null,
-                    "linkedin": "https://linkedin.com/in/beatrizguarezi",
-                    "instagram": "https://instagram.com/bitstobrands"
+                    "linkedin": "https://www.linkedin.com/in/balabuch",
+                    "instagram": "https://www.instagram.com/timbalabuch/"
                 },
                 {
-                    "name": "Rodrigo Ghedin",
-                    "subtitle": "Editor @ Manual do Usuário",
-                    "photo": "/img/schedule/rodrigo-ghedin.jpg",
-                    "twitter": "https://twitter.com/ghedin",
-                    "linkedin": "https://www.linkedin.com/in/rodrigoghedin/",
-                    "instagram": null
+                    "name": "Daniela Zschaber",
+                    "subtitle": "Marketing Manager na NFTFY",
+                    "photo": "/img/schedule/daniela-zschaber.jpeg",
+                    "twitter": null,
+                    "linkedin": "https://www.linkedin.com/in/daniela-zschaber/",
+                    "instagram": "https://instagram.com/danimim"
                 }
             ]
         },
@@ -147,24 +147,24 @@
             "type": "Painel",
             "hour": "13:30 - 14:30",
             "room": "Sala 1",
-            "title": "A real sobre o tal metaverso",
-            "description": "A gente queria explicar nessa descrição exatamente o que é o metaverso, mas a gente não pode porque não sabemos o que é. Seria o Second Life em versão atualizada? The Sims com maior interação? Precisa ter óculos de realidade aumentada? A medida do terreno é em pixels e o preço em dólar? A gente também não sabe! Mas esse bate-papo vai ser justamente pra nos ajudar a tirar todas essas dúvidas e entender, por fim, o que é o metaverso (depois do painel editamos a descrição pra explicar melhor).",
+            "title": "A internet virou um grande shopping",
+            "description": "A cada dois stories, uma propaganda. A cada tweet em uma thread, uma propaganda. A atualização nova do aplicativo tem uma aba de shopping, o post do influenciador é só publi. Os artigos são quase todos pagos. O jeito que a gente usa as redes sociais vira dado, que vira produto, que vira venda. Sobrou alguma coisa entre 1 meme de gatinho e 3463 propagandas?",
             "speakers": [
                 {
-                    "name": "Tim Balabuch",
-                    "subtitle": "Fundador PFP Supply Co.",
-                    "photo": "/img/schedule/tim-balabuch.jpg",
+                    "name": "Beatriz Guarezi",
+                    "subtitle": "Criadora da Bits to Brands",
+                    "photo": "/img/schedule/beatriz-guarezi.jpg",
                     "twitter": null,
-                    "linkedin": "https://www.linkedin.com/in/balabuch",
-                    "instagram": "https://www.instagram.com/timbalabuch/"
+                    "linkedin": "https://linkedin.com/in/beatrizguarezi",
+                    "instagram": "https://instagram.com/bitstobrands"
                 },
                 {
-                    "name": "Daniela Zschaber",
-                    "subtitle": "Marketing Manager na NFTFY",
-                    "photo": "/img/schedule/daniela-zschaber.jpeg",
-                    "twitter": null,
-                    "linkedin": "https://www.linkedin.com/in/daniela-zschaber/",
-                    "instagram": "https://instagram.com/danimim"
+                    "name": "Rodrigo Ghedin",
+                    "subtitle": "Editor @ Manual do Usuário",
+                    "photo": "/img/schedule/rodrigo-ghedin.jpg",
+                    "twitter": "https://twitter.com/ghedin",
+                    "linkedin": "https://www.linkedin.com/in/rodrigoghedin/",
+                    "instagram": null
                 }
             ]
         },
