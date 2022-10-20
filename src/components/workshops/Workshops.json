@@ -29,7 +29,7 @@
     },
     {
         "hour": "9:30 - 12:00",
-        "room": "FabLab",
+        "room": "Espaço Sadalla",
         "title": "Utilizando programação para composição e performance musical",
         "description": "Se Mozart estivesse vivo, ele certamente aprenderia a programar e escreveria código para criar seu “jogo musical de dados” (Musikalisches Würfelspiel). Nessa oficina, Eduardo Fonseca, programador e músico, explorará o uso da programação para composição e performance musical. Direcionada a qualquer pessoa buscando ampliar seu potencial criativo, a oficina abordará assuntos como produção de arte generativa, integração com softwares e hardwares comerciais, design de som e setups para performance ao vivo. Ao fim, os participantes terão uma visão geral que servirá para orientá-los na sua trajetória criativa, permitindo a incorporação da tecnologia independentemente da estética escolhida, seja ela a da música eletrônica, clássica, jazz ou hip hop.",
         "speaker": {
@@ -39,6 +39,20 @@
             "twitter": null,
             "linkedin": null,
             "instagram": null
+        }
+    },
+    {
+        "hour": "10:00 - 15:30",
+        "room": "Ágora Tech Park",
+        "title": "Quick Massage",
+        "description": "Terapia manual para aliviar tensões e recuperar a energia.",
+        "speaker": {
+            "name": "Cristhine Gorgen",
+            "subtitle": "Fisioterapeuta",
+            "photo": "/img/schedule/cristhine-gorgen.jpg",
+            "twitter": null,
+            "linkedin": null,
+            "instagram": "https://www.instagram.com/spaurbanojoinville/"
         }
     },
     {
@@ -57,6 +71,20 @@
     },
     {
         "hour": "13:30 - 14:30",
+        "room": "Ágora Tech Park",
+        "title": "Workshop de Minifoguetes",
+        "description": "A oficina de minifoguetes ministrada pela equipe de competição Kosmos Rocketry consiste na explicação dos conceitos e componentes básicos presentes em um veículo aeroespacial, mas aplicados a um modelo em pequena escala. O participante terá a experiência de construir um modelo de foguete experimental na prática com o auxílio dos membros da equipe e terá a oportunidade de lançá-lo.",
+        "speaker": {
+            "name": "Pedro Lucas",
+            "subtitle": "Diretor da Kosmos Rocketry",
+            "photo": "/img/schedule/pedro-lucas.jpg",
+            "twitter": null,
+            "linkedin": null,
+            "instagram": "https://www.instagram.com/kosmosrocketry/"
+        }
+    },
+    {
+        "hour": "15:00 - 16:00",
         "room": "Espaço Acredi",
         "title": "Oficina de segurança digital: autenticação de dois fatores",
         "description": "A autenticação em dois fatores é uma função poderosa de segurança. Disponibilizada por várias empresas, ela ainda pouco usada. Neste workshop, aprenderemos na prática como configurá-la em redes sociais e serviços de e-mail. Também teremos um espaço para tirar outras dúvidas relacionadas à segurança digital. Para participar é necessário um celular com um aplicativo de OTP instalado — Aegis Authenticator, Raivo OTP, Authy, Google/Microsoft Authenticator etc.",
@@ -67,20 +95,6 @@
             "twitter": "https://twitter.com/ghedin",
             "linkedin": "https://www.linkedin.com/in/rodrigoghedin/",
             "instagram": null
-        }
-    },
-    {
-        "hour": "14:00 - 15:00",
-        "room": "FabLab",
-        "title": "Workshop de Minifoguetes",
-        "description": "A oficina de minifoguetes ministrada pela equipe de competição Kosmos Rocketry consiste na explicação dos conceitos e componentes básicos presentes em um veículo aeroespacial, mas aplicados a um modelo em pequena escala. O participante terá a experiência de construir um modelo de foguete experimental na prática com o auxílio dos membros da equipe e terá a oportunidade de lançá-lo.",
-        "speaker": {
-            "name": "Pedro Lucas",
-            "subtitle": "Diretor da Kosmos Rocketry",
-            "photo": "/img/schedule/pedro-lucas.jpg",
-            "twitter": null,
-            "linkedin": null,
-            "instagram": "https://www.instagram.com/kosmosrocketry/"
         }
     },
     {

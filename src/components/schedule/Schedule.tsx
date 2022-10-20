@@ -27,7 +27,7 @@ export default function Schedule() {
                     bigger
                     icon="/img/asteristico.svg"
                     text="Programação"
-                    joke="Procastinação"
+                    joke="Procrastinação"
                 />
 
                 <div className={styles.container}>

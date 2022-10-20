@@ -77,7 +77,7 @@ const FaqQuestionList = [
         question: "Ainda tenho dúvidas",
         answer: (
             <>
-                Se ainda ficou dúvidas, não se acanhe. É só chamar a gente no Zap{" "}
+                Se ainda ficaram dúvidas, não se acanhe. É só chamar a gente no Zap{" "}
                 <a href="https://wa.me/5547999159929">(47) 99915-9929</a> ou procurar a gente no{" "}
                 <a href="https://shiftfestival.cc/discord">Discord</a>.
             </>

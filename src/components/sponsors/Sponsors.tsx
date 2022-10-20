@@ -111,6 +111,13 @@ export default function Sponsors() {
                         >
                             <img src="/img/sponsors/app.svg" alt="APP Brasil" />
                         </a>
+                        <a
+                            href="https://www.spaurbanosc.com.br/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/spa-urbano.svg" alt="Spa Urbano" />
+                        </a>
                     </div>
                 </div>
                 <div className={styles.madeBy}>
