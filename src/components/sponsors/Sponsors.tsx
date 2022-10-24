@@ -4,7 +4,12 @@ export default function Sponsors() {
     return (
         <section className={styles.section}>
             <div className={styles.container}>
-                <div className={styles.presents}></div>
+                <div className={styles.presents}>
+                    Apresenta
+                    <a href="https://kusama.network/" target="_blank" rel="noreferrer noopener">
+                        <img src="/img/sponsors/kusama-2.svg" alt="Kusama" />
+                    </a>
+                </div>
                 <div className={styles.sponsors}>
                     Patrocínio
                     <div className={styles.container}>

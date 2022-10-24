@@ -6,6 +6,12 @@ export default function Hero() {
     return (
         <section className={styles.hero}>
             <div className={styles.logo}>
+                <div className={styles.presents}>
+                    <a href="https://kusama.network/" target="_blank" rel="noreferrer noopener">
+                        <img src="/img/sponsors/kusama-1.svg" alt="Kusama" />
+                    </a>
+                    Apresenta
+                </div>
                 <img src="/img/logo-shift.svg" alt="Logotipo do Shift Festival" />
             </div>
 

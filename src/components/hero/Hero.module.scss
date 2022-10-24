@@ -35,6 +35,21 @@
             grid-column: auto;
             width: 70%;
         }
+
+        .presents {
+            color: #fff;
+            text-transform: uppercase;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 2rem;
+            gap: 1rem;
+
+            a {
+                display: block;
+                max-width: 40%;
+            }
+        }
     }
 
     .infoWrapper {
