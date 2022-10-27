@@ -29,7 +29,7 @@
     },
     {
         "hour": "9:30 - 12:00",
-        "room": "Espaço Sadalla Smart",
+        "room": "Espaço Softville",
         "title": "Utilizando programação para composição e performance musical",
         "description": "Se Mozart estivesse vivo, ele certamente aprenderia a programar e escreveria código para criar seu “jogo musical de dados” (Musikalisches Würfelspiel). Nessa oficina, Eduardo Fonseca, programador e músico, explorará o uso da programação para composição e performance musical. Direcionada a qualquer pessoa buscando ampliar seu potencial criativo, a oficina abordará assuntos como produção de arte generativa, integração com softwares e hardwares comerciais, design de som e setups para performance ao vivo. Ao fim, os participantes terão uma visão geral que servirá para orientá-los na sua trajetória criativa, permitindo a incorporação da tecnologia independentemente da estética escolhida, seja ela a da música eletrônica, clássica, jazz ou hip hop.",
         "speaker": {
@@ -81,6 +81,20 @@
             "twitter": null,
             "linkedin": null,
             "instagram": "https://www.instagram.com/kosmosrocketry/"
+        }
+    },
+    {
+        "hour": "14:00 - 15:30",
+        "room": "Espaço Softville",
+        "title": "Oficina de Bullet journal: planejamento e criatividade",
+        "description": "Hoje em dia nossa vida anda tão caótica, que estamos sempre no automático, vivendo o agora mas com a cabeça no próximo compromisso. É hora de fazer uma pausa, dedicar um tempo para construir algo com suas próprias mãos. Que tal misturar isso tudo com planejamento e criatividade? Essa é a ideia do Bullet Journal, dedicar um tempo para criar, viver o agora e claro, se organizar!",
+        "speaker": {
+            "name": "Thamara Bezerra",
+            "subtitle": "Fundadora da Ah!bito Estúdio",
+            "photo": "/img/schedule/thamara-bezerra.jpg",
+            "twitter": null,
+            "linkedin": null,
+            "instagram": "https://www.instagram.com/ah.bito/"
         }
     },
     {

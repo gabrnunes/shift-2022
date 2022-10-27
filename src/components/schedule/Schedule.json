@@ -1,28 +1,28 @@
 [
     [
         {
-            "soon": true,
+            "soon": false,
             "type": "Painel",
             "hour": "09:00 - 10:00",
             "room": "Sala 1",
             "title": "Precisamos desligar a internet?",
-            "description": "",
+            "description": "Infoxicação, FOMO, JOMO... termos novos que surgiram por excesso de uso da internet. A nossa saúde mental é comprovadamente impactada pela forma como as redes sociais afetam nosso dia a dia. Será que precisamos repensá-la? Tä na hora de voltar a internet 1.0? O ideal é a gente ficar mais tempo fora do computador/telefone?",
             "speakers": [
                 {
-                    "name": "",
-                    "subtitle": "=",
-                    "photo": "/img/schedule/.jpg",
+                    "name": "Pedro Cruz",
+                    "subtitle": "Estrategista, consultor em DE&I, colunista, LinkedIn Top Voice & Creato",
+                    "photo": "/img/schedule/pedro-cruz.jpg",
                     "twitter": null,
-                    "linkedin": null,
-                    "instagram": null
+                    "linkedin": "https://www.linkedin.com/in/pedroocruzz/",
+                    "instagram": "https://www.instagram.com/pedrocruzzzzz/"
                 },
                 {
-                    "name": "",
-                    "subtitle": "=",
-                    "photo": "/img/schedule/.jpg",
+                    "name": "Vitorí Helena",
+                    "subtitle": "Trend Forecaster e Organizadora do TEDx Floripa",
+                    "photo": "/img/schedule/vitori.jpg",
                     "twitter": null,
-                    "linkedin": null,
-                    "instagram": null
+                    "linkedin": "https://www.linkedin.com/in/vitoridasilva/",
+                    "instagram": "https://www.instagram.com/vihtcoin/"
                 }
             ]
         },
@@ -303,7 +303,7 @@
             "hour": "17:00 - 18:00",
             "room": "Sala 2",
             "title": "Ainda vale a pena salvar o planeta?",
-            "description": "Tem mais de 40 anos que as pessoas falam que o fim do agora. E se não for, ainda vale a pena salvar esse planeta?",
+            "description": "Este é um painel sobre esperança. Tem mais de 40 anos que as pessoas falam que o fim do agora. E se não for, ainda vale a pena salvar esse planeta? Ainda vale a pena tentar coisas novas?",
             "speakers": [
                 {
                     "name": "Ana Cardoso",
@@ -312,14 +312,6 @@
                     "twitter": "https://twitter.com/casadeanita",
                     "linkedin": "https://www.linkedin.com/in/ana-em%C3%ADlia-cardoso-43361728/",
                     "instagram": "https://www.instagram.com/ana_emilia_cardoso/"
-                },
-                {
-                    "name": "Vitorí Helena",
-                    "subtitle": "Trend Forecaster e Organizadora do TEDx Floripa",
-                    "photo": "/img/schedule/vitori.jpg",
-                    "twitter": null,
-                    "linkedin": "https://www.linkedin.com/in/vitoridasilva/",
-                    "instagram": "https://www.instagram.com/vihtcoin/"
                 }
             ]
         }

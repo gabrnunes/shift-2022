@@ -60,6 +60,13 @@ export default function Sponsors() {
                         >
                             <img src="/img/sponsors/agora.png" alt="Ágora Tech Park" />
                         </a>
+                        <a
+                            href="https://somossupers.com.br/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/supers.svg" alt="Grupo Supers" />
+                        </a>
                     </div>
                 </div>
             </div>
@@ -122,6 +129,30 @@ export default function Sponsors() {
                             rel="noreferrer noopener"
                         >
                             <img src="/img/sponsors/spa-urbano.svg" alt="Spa Urbano" />
+                        </a>
+                        <a href="https://rastro.eco.br/" target="_blank" rel="noreferrer noopener">
+                            <img src="/img/sponsors/rastro.svg" alt="Rastro Sustentabilidade" />
+                        </a>
+                        <a
+                            href="https://www.instagram.com/zeitcervejaria/?hl=pt"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/zeit.svg" alt="Zeit Cervejaria" />
+                        </a>
+                        <a
+                            href="https://softville.org.br/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/softville.svg" alt="Softville" />
+                        </a>
+                        <a
+                            href="https://www.instagram.com/ah.bito/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/ahbito.svg" alt="Ah!Bito" />
                         </a>
                     </div>
                 </div>
