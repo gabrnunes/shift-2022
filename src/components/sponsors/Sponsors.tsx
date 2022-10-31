@@ -154,6 +154,20 @@ export default function Sponsors() {
                         >
                             <img src="/img/sponsors/ahbito.svg" alt="Ah!Bito" />
                         </a>
+                        <a
+                            href="https://querodobra.com.br/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/dobra.svg" alt="Dobra" />
+                        </a>
+                        <a
+                            href="https://www.instagram.com/undrjoinville/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/undr.svg" alt="UNDR Bar" />
+                        </a>
                     </div>
                 </div>
                 <div className={styles.madeBy}>

@@ -42,6 +42,20 @@
         }
     },
     {
+        "hour": "10:00 - 11:00",
+        "room": "Ágora Tech Park",
+        "title": "Workshop de Aviões Planadores",
+        "description": "Ensinaremos os participantes a construírem seu próprio planador de isopor e explicaremos os conceitos básicos da aviação.",
+        "speaker": {
+            "name": "Samuel Amaral",
+            "subtitle": "Assistente Comercial na Nisus Aerodesign",
+            "photo": "/img/schedule/samuel-amaral.jpg",
+            "twitter": null,
+            "linkedin": "https://www.linkedin.com/in/samuel-amaral-8a36aa144",
+            "instagram": "https://instagram.com/ssamaral"
+        }
+    },
+    {
         "hour": "10:00 - 15:30",
         "room": "Ágora Tech Park",
         "title": "Quick Massage",
