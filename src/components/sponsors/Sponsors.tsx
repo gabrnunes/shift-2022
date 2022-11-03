@@ -168,6 +168,13 @@ export default function Sponsors() {
                         >
                             <img src="/img/sponsors/undr.svg" alt="UNDR Bar" />
                         </a>
+                        <a
+                            href="https://www.instagram.com/alias.homegarden/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/alias.svg" alt="aliás home garden" />
+                        </a>
                     </div>
                 </div>
                 <div className={styles.madeBy}>
