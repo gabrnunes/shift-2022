@@ -12,7 +12,7 @@ export default function Sponsors() {
                 </div>
                 <div className={styles.sponsors}>
                     Patrocínio
-                    <div className={styles.container}>
+                    <div className={styles.logos}>
                         <a href="https://avell.com.br/" target="_blank" rel="noreferrer noopener">
                             <img src="/img/sponsors/avell.svg" alt="Avell" />
                         </a>
@@ -69,11 +69,10 @@ export default function Sponsors() {
                         </a>
                     </div>
                 </div>
-            </div>
-            <div className={styles.container}>
+
                 <div className={styles.partners}>
                     Apoio
-                    <div className={styles.container}>
+                    <div className={styles.logos}>
                         <a
                             href="https://www.anandayoga.com.br/"
                             target="_blank"
@@ -177,16 +176,30 @@ export default function Sponsors() {
                         </a>
                     </div>
                 </div>
-                <div className={styles.madeBy}>
-                    Realização
-                    <div className={styles.container}>
-                        <a
-                            href="https://www.onionrings.com.br/"
-                            target="_blank"
-                            rel="noreferrer noopener"
-                        >
-                            <img src="/img/sponsors/onion-rings.svg" alt="Onion Rings" />
-                        </a>
+                <div className={styles.footer}>
+                    <div className={styles.entity}>
+                        Entidade Filantrópica Apoiada
+                        <div className={styles.logos}>
+                            <a
+                                href="https://prorim.org.br/"
+                                target="_blank"
+                                rel="noreferrer noopener"
+                            >
+                                <img src="/img/sponsors/pro-rim.svg" alt="Pró-Rim" />
+                            </a>
+                        </div>
+                    </div>
+                    <div className={styles.madeBy}>
+                        Realização
+                        <div className={styles.logos}>
+                            <a
+                                href="https://www.onionrings.com.br/"
+                                target="_blank"
+                                rel="noreferrer noopener"
+                            >
+                                <img src="/img/sponsors/onion-rings.svg" alt="Onion Rings" />
+                            </a>
+                        </div>
                     </div>
                 </div>
             </div>
