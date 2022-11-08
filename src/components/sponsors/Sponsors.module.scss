@@ -107,10 +107,9 @@
 .entity {
     a {
         display: block;
-        margin-top: 2rem;
+        max-width: 300px;
 
         @media (max-width: 1110px) {
-            margin-top: 1rem;
             max-width: 100px;
         }
 
