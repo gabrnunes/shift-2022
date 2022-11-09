@@ -15,7 +15,7 @@
     },
     {
         "hour": "9:00 - 11:30",
-        "room": "Espaço Acredicoop – Cooperativa Ailos.",
+        "room": "Espaço Softville",
         "title": "Workshop Shift on! Design Thinking your Life",
         "description": "Design thinking your life! Venha usar os princípios do design thinking para (re)pensar, (re)descobrir, (re)desenhar, (re)projetar e (re)ssignificar caminhos possíveis para sua vida. Esse workshop se baseia no design thinking para ajudá-lo a projetar e por em prática uma vida conectada com seu propósito. Venha com toda sua energia e criatividade! Disponibilizaremos postits e canetinhas para o workshop.",
         "speaker": {
@@ -29,7 +29,7 @@
     },
     {
         "hour": "9:30 - 12:00",
-        "room": "Espaço Softville",
+        "room": "Espaço Acredicoop – Cooperativa Ailos",
         "title": "Utilizando programação para composição e performance musical",
         "description": "Se Mozart estivesse vivo, ele certamente aprenderia a programar e escreveria código para criar seu “jogo musical de dados” (Musikalisches Würfelspiel). Nessa oficina, Eduardo Fonseca, programador e músico, explorará o uso da programação para composição e performance musical. Direcionada a qualquer pessoa buscando ampliar seu potencial criativo, a oficina abordará assuntos como produção de arte generativa, integração com softwares e hardwares comerciais, design de som e setups para performance ao vivo. Ao fim, os participantes terão uma visão geral que servirá para orientá-los na sua trajetória criativa, permitindo a incorporação da tecnologia independentemente da estética escolhida, seja ela a da música eletrônica, clássica, jazz ou hip hop.",
         "speaker": {
@@ -113,7 +113,7 @@
     },
     {
         "hour": "15:00 - 16:00",
-        "room": "Espaço Acredicoop – Cooperativa Ailos.",
+        "room": "Espaço Acredicoop – Cooperativa Ailos",
         "title": "Oficina de segurança digital: autenticação de dois fatores",
         "description": "A autenticação em dois fatores é uma função poderosa de segurança. Disponibilizada por várias empresas, ela ainda pouco usada. Neste workshop, aprenderemos na prática como configurá-la em redes sociais e serviços de e-mail. Também teremos um espaço para tirar outras dúvidas relacionadas à segurança digital. Para participar é necessário um celular com um aplicativo de OTP instalado — Aegis Authenticator, Raivo OTP, Authy, Google/Microsoft Authenticator etc.",
         "speaker": {
