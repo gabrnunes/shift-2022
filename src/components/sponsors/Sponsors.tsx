@@ -174,6 +174,13 @@ export default function Sponsors() {
                         >
                             <img src="/img/sponsors/alias.svg" alt="aliás home garden" />
                         </a>
+                        <a
+                            href="https://www.instagram.com/sadalla.smart/"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/sadalla-smart.svg" alt="Sadalla Smart" />
+                        </a>
                     </div>
                 </div>
                 <div className={styles.footer}>
