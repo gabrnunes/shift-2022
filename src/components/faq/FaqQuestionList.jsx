@@ -12,6 +12,30 @@ const FaqQuestionList = [
         answer: "O Ágora Tech Park é um empreendimento incrível aqui em Joinville e une tecnologia, natureza e espaços abertos. Perfeito para a troca de ideias e para promover essa quebra na rotina, que a gente tanto precisa de vez em quando.",
     },
     {
+        question: "Como eu chego lá?",
+        answer: (
+            <>
+                Bom, aqui estão algumas opções:<br /><br />
+                <strong>Ônibus:</strong><br />
+                Você pode <a href="https://onibus.info/" target="_blank" rel="noreferrer noopener">conferir aqui</a> a melhor rota.<br />
+                Alguns horários saindo do terminal Norte: 07:35 | 08:00 | 08:15 | 08:30 | 08:40 | 09:37<br />
+                E para voltar, lembrando que tem happy hour pra finalizar (saída do ponto de ônibus em frente ao Perini Business Park): 18:33 | 18:20 | 19:05 | 20:15<br />
+                <br />
+                <strong>Carona:</strong><br />
+                Se você pode oferecer carona ou precisa de uma, preencha <a href="https://forms.gle/94UhJDywBd6r5pfVA" target="_blank" rel="noreferrer noopener">esse forms</a>. Vamos conectar quem precisa.<br />
+                <br />
+                <strong>Carro:</strong><br />
+                O estacionamento lá é gratuito! E se tiver lugar no carro, não esquece de preencher <a href="https://forms.gle/94UhJDywBd6r5pfVA" target="_blank" rel="noreferrer noopener">esse forms</a>para oferecer carona.<strong>Carro:</strong><br />
+                <br />
+                <strong>Helicóptero:</strong><br />
+                O espaço em frente ao Ágora serve como heliponto.<br />
+                <br />
+                <strong>Teletransporte:</strong><br />
+                Favor não se teletransportar para o espaço na hora em que os mini-foguetes serão lançados.
+            </>
+        )
+    },
+    {
         question: "Se eu vier de outra cidade, tem recomendação de onde ficar?",
         answer: (
             <>
