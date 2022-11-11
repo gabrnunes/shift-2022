@@ -84,6 +84,20 @@
         }
     },
     {
+        "hour": "13:30 - 15:00",
+        "room": "Espaço Acredicoop – Cooperativa Ailos",
+        "title": "Tendências & Branding: uma metodologia prática!",
+        "description": "As tendências socioculturais dão pistas de desejos emergentes no tecido social e a gestão de branding pode usá-las como impulsionadora de inovação, impacto e transformação!  Coloque a mão na massa neste workshop de Alessandro Felippe em parceria com a Inventório - Empresa Júnior de Design e Moda!",
+        "speaker": {
+            "name": "Alessandro Felippe",
+            "subtitle": "em parceria com a Inventório - Empresa Júnior de Design e Moda",
+            "photo": "/img/schedule/alessandro-felipe.jpg",
+            "twitter": null,
+            "linkedin": "https://www.linkedin.com/in/alessandro-mateus-felippe-898390139/",
+            "instagram": "https://www.instagram.com/_allefelippe/"
+        }
+    },
+    {
         "hour": "13:30 - 14:30",
         "room": "Ágora Tech Park",
         "title": "Workshop de Minifoguetes",
@@ -112,7 +126,7 @@
         }
     },
     {
-        "hour": "15:00 - 16:00",
+        "hour": "15:30 - 16:30",
         "room": "Espaço Acredicoop – Cooperativa Ailos",
         "title": "Oficina de segurança digital: autenticação de dois fatores",
         "description": "A autenticação em dois fatores é uma função poderosa de segurança. Disponibilizada por várias empresas, ela ainda pouco usada. Neste workshop, aprenderemos na prática como configurá-la em redes sociais e serviços de e-mail. Também teremos um espaço para tirar outras dúvidas relacionadas à segurança digital. Para participar é necessário um celular com um aplicativo de OTP instalado — Aegis Authenticator, Raivo OTP, Authy, Google/Microsoft Authenticator etc.",

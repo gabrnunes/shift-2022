@@ -32,7 +32,7 @@
             "hour": "09:30 - 10:30",
             "room": "Sala 2",
             "title": "Como a educação tradicional mata a criatividade",
-            "description": "",
+            "description": "Todo mundo acredita na extraordinária capacidade que as crianças têm em inovar, mas se elas aprenderem a ter medo nas escolas, não vão arriscar. E com medo de errar, ideias originais não nascem",
             "speakers": [
                 {
                     "name": "Charles Caubi Brandão",
@@ -184,6 +184,14 @@
                     "twitter": "https://twitter.com/joaocsb",
                     "linkedin": "https://www.linkedin.com/in/joaoborgesjr",
                     "instagram": "https://instagram.com/joaocsb"
+                },
+                {
+                    "name": "Mari Roana",
+                    "subtitle": "Streamer",
+                    "photo": "/img/schedule/mari-roana.jpg",
+                    "twitter": "https://twitter.com/mar1roana",
+                    "linkedin": null,
+                    "instagram": "https://fb.gg/mar1roana"
                 }
             ]
         },
