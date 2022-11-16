@@ -33,7 +33,7 @@ export default function IndexController() {
                 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
                 <link rel="manifest" href="/site.webmanifest" />
                 <link rel="shortcut icon" href="/favicon.ico" />
-                <meta property="og:image" content="https://shiftfestival.cc/share-22.png" />
+                <meta property="og:image" content="https://shiftfestival.cc/share-22-2.png" />
             </Head>
             <Floating />
             <Hero />
