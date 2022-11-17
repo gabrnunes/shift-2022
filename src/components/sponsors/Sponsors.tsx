@@ -181,6 +181,13 @@ export default function Sponsors() {
                         >
                             <img src="/img/sponsors/sadalla-smart.svg" alt="Sadalla Smart" />
                         </a>
+                        <a
+                            href="https://fiesc.com.br/pt-br/faberup"
+                            target="_blank"
+                            rel="noreferrer noopener"
+                        >
+                            <img src="/img/sponsors/faberup.svg" alt="FaberUp FIESC" />
+                        </a>
                     </div>
                 </div>
                 <div className={styles.footer}>
