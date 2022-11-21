@@ -16,7 +16,7 @@ export default function JoinTheChange() {
                 </p>
 
                 <p className={styles.textBlock}>
-                    Os 2º lote sai por R$ 139 e, com você, nosso evento será ainda mais incrível!
+                    Os 3º lote sai por R$ 159 e, com você, nosso evento será ainda mais incrível!
                 </p>
             </div>
 

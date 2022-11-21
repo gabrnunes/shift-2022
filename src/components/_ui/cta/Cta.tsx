@@ -54,7 +54,7 @@ export default function Cta(props: Props) {
 
             <div className={styles.hovered}>
                 <span>
-                    2º lote <data value="139.00">R$ 139</data>
+                    3º lote <data value="159.00">R$ 159</data>
                 </span>
 
                 {props.color == "yellow" && <ArrowIcon color="red" />}
