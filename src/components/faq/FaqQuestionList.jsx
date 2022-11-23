@@ -15,25 +15,61 @@ const FaqQuestionList = [
         question: "Como eu chego lá?",
         answer: (
             <>
-                Bom, aqui estão algumas opções:<br /><br />
-                <strong>Ônibus:</strong><br />
-                Você pode <a href="https://onibus.info/" target="_blank" rel="noreferrer noopener">conferir aqui</a> a melhor rota.<br />
-                Alguns horários saindo do terminal Norte: 07:35 | 08:00 | 08:15 | 08:30 | 08:40 | 09:37<br />
-                E para voltar, lembrando que tem happy hour pra finalizar (saída do ponto de ônibus em frente ao Perini Business Park): 18:33 | 18:20 | 19:05 | 20:15<br />
+                Bom, aqui estão algumas opções:
                 <br />
-                <strong>Carona:</strong><br />
-                Se você pode oferecer carona ou precisa de uma, preencha <a href="https://forms.gle/94UhJDywBd6r5pfVA" target="_blank" rel="noreferrer noopener">esse forms</a>. Vamos conectar quem precisa.<br />
                 <br />
-                <strong>Carro:</strong><br />
-                O estacionamento lá é gratuito! E se tiver lugar no carro, não esquece de preencher <a href="https://forms.gle/94UhJDywBd6r5pfVA" target="_blank" rel="noreferrer noopener">esse forms</a>para oferecer carona.<strong>Carro:</strong><br />
+                <strong>Ônibus:</strong>
                 <br />
-                <strong>Helicóptero:</strong><br />
-                O espaço em frente ao Ágora serve como heliponto.<br />
+                Você pode{" "}
+                <a href="https://onibus.info/" target="_blank" rel="noreferrer noopener">
+                    conferir aqui
+                </a>{" "}
+                a melhor rota.
                 <br />
-                <strong>Teletransporte:</strong><br />
-                Favor não se teletransportar para o espaço na hora em que os mini-foguetes serão lançados.
+                Alguns horários saindo do terminal Norte: 07:35 | 08:00 | 08:15 | 08:30 | 08:40 |
+                09:37
+                <br />
+                E para voltar, lembrando que tem happy hour pra finalizar (saída do ponto de ônibus
+                em frente ao Perini Business Park): 18:33 | 18:20 | 19:05 | 20:15
+                <br />
+                <br />
+                <strong>Carona:</strong>
+                <br />
+                Se você pode oferecer carona ou precisa de uma, preencha{" "}
+                <a
+                    href="https://forms.gle/94UhJDywBd6r5pfVA"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                >
+                    esse forms
+                </a>
+                . Vamos conectar quem precisa.
+                <br />
+                <br />
+                <strong>Carro:</strong>
+                <br />O estacionamento lá é gratuito! E se tiver lugar no carro, não esquece de
+                preencher{" "}
+                <a
+                    href="https://forms.gle/94UhJDywBd6r5pfVA"
+                    target="_blank"
+                    rel="noreferrer noopener"
+                >
+                    esse forms
+                </a>
+                para oferecer carona.<strong>Carro:</strong>
+                <br />
+                <br />
+                <strong>Helicóptero:</strong>
+                <br />
+                O espaço em frente ao Ágora serve como heliponto.
+                <br />
+                <br />
+                <strong>Teletransporte:</strong>
+                <br />
+                Favor não se teletransportar para o espaço na hora em que os mini-foguetes serão
+                lançados.
             </>
-        )
+        ),
     },
     {
         question: "Se eu vier de outra cidade, tem recomendação de onde ficar?",
@@ -75,13 +111,16 @@ const FaqQuestionList = [
         ),
     },
     {
-        question: "Não aguento esperar até dezembro. Tem algum lugar pra acompanhar as coisas?",
+        question: "Posso levar crianças?",
         answer: (
             <>
-                Você pode seguir o SH*FT Festival em nossas redes sociais (
-                <a href="https://www.instagram.com/shiftfestival.cc/">Instagram</a> ou{" "}
-                <a href="https://twitter.com/shiftfestivalcc">Twitter</a>) ou se inscrever na{" "}
-                <a href="https://shiftfestival.substack.com/">nossa newsletter</a>.
+                Vamos ter um Espaço Kids funcionando das 9h às 17h que contará com uma monitora. O
+                espaço tem capacidade para receber até 15 crianças (de 2 a 6 anos) e será delimitado
+                com um cercadinho para maior segurança. Contará com brinquedos de madeira e
+                educativos que estimulem a criatividade, mesa para atividades e oficia de massinha.
+                Às 10:30h a Fabiana Caetano, pós-graduada em Neurociência e Comportamento Humano,
+                vai trazer uma roda de conversa dentro do Espaço Kids, falando um pouco sobre o
+                brincar no desenvolvimento infantil.
             </>
         ),
     },
