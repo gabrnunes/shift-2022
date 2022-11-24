@@ -114,10 +114,10 @@ const FaqQuestionList = [
         question: "Posso levar crianças?",
         answer: (
             <>
-                Vamos ter um Espaço Kids funcionando das 9h às 17h que contará com uma monitora. O
+                Vamos ter um Espaço Kids funcionando das 9h às 12h e das 13h às 17h que contará com uma monitora. O
                 espaço tem capacidade para receber até 15 crianças (de 2 a 6 anos) e será delimitado
                 com um cercadinho para maior segurança. Contará com brinquedos de madeira e
-                educativos que estimulem a criatividade, mesa para atividades e oficia de massinha.
+                educativos que estimulem a criatividade, mesa para atividades e oficina de massinha.
                 Às 10:30h a Fabiana Caetano, pós-graduada em Neurociência e Comportamento Humano,
                 vai trazer uma roda de conversa dentro do Espaço Kids, falando um pouco sobre o
                 brincar no desenvolvimento infantil.
