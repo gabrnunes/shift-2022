@@ -9,7 +9,7 @@ import Intro from "@components/intro/Intro";
 import Sponsors from "@components/sponsors/Sponsors";
 import Schedule from "@components/schedule/Schedule";
 import Workshops from "@components/workshops/Workshops";
-import Floating from "@components/floating/Floating";
+import WhatsappFloatingButton from "@components/_ui/whatsapp/WhatsappFloatingButton";
 
 export default function IndexController() {
     return (
@@ -35,7 +35,7 @@ export default function IndexController() {
                 <link rel="shortcut icon" href="/favicon.ico" />
                 <meta property="og:image" content="https://shiftfestival.cc/share-22-2.png" />
             </Head>
-            <Floating />
+            <WhatsappFloatingButton />
             <Hero />
             <Illustration />
             <Intro />
