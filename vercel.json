@@ -21,6 +21,22 @@
         {
             "source": "/ig",
             "destination": "https://shiftfestival.cc/?utm_source=ig-bio"
+        },
+        {
+            "source": "/cont01",
+            "destination": "https://meet.google.com/mxq-okdw-jir?hs=224"
+        },
+        {
+            "source": "/cont02",
+            "destination": "https://meet.google.com/rep-oygb-rub"
+        },
+        {
+            "source": "/cont03",
+            "destination": "https://meet.google.com/ied-jxog-jxr"
+        },
+        {
+            "source": "/cont04",
+            "destination": "https://meet.google.com/tpm-othg-oaq"
         }
     ]
 }
