@@ -9,14 +9,6 @@
             "description": "Infoxicação, FOMO, JOMO... termos novos que surgiram por excesso de uso da internet. A nossa saúde mental é comprovadamente impactada pela forma como as redes sociais afetam nosso dia a dia. Será que precisamos repensá-la? Tä na hora de voltar a internet 1.0? O ideal é a gente ficar mais tempo fora do computador/telefone?",
             "speakers": [
                 {
-                    "name": "Pedro Cruz",
-                    "subtitle": "Estrategista, consultor em DE&I, colunista, LinkedIn Top Voice & Creato",
-                    "photo": "/img/schedule/pedro-cruz.jpg",
-                    "twitter": null,
-                    "linkedin": "https://www.linkedin.com/in/pedroocruzz/",
-                    "instagram": "https://www.instagram.com/pedrocruzzzzz/"
-                },
-                {
                     "name": "Vitorí Helena",
                     "subtitle": "Trend Forecaster e Organizadora do TEDx Floripa",
                     "photo": "/img/schedule/vitori.jpg",
@@ -186,12 +178,12 @@
                     "instagram": "https://instagram.com/joaocsb"
                 },
                 {
-                    "name": "Mari Roana",
+                    "name": "Mandy Mess",
                     "subtitle": "Streamer",
-                    "photo": "/img/schedule/mari-roana.jpg",
-                    "twitter": "https://twitter.com/mar1roana",
+                    "photo": "/img/schedule/mandy-mess.jpg",
+                    "twitter": "https://twitter.com/mandymessdrag",
                     "linkedin": null,
-                    "instagram": "https://fb.gg/mar1roana"
+                    "instagram": "https://instagram.com/mandymessdrag"
                 }
             ]
         },
